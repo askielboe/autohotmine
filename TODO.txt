@@ -1,0 +1,4 @@
+Everywhere:
+	Time (delay) Optimization.
+LootCan():
+	Make check to make sure that we don't loot other people's cans.

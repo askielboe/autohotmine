@@ -62,7 +62,9 @@ While, 1 {
 	i += 1
 }
 return
-
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
 #h::
 WinWait, EVE, 
 IfWinNotActive, EVE, , WinActivate, EVE, 
@@ -131,10 +133,14 @@ StartMining(n)
 
 Return
 ; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
 #x::
 WinWait, EVE, 
 IfWinNotActive, EVE, , WinActivate, EVE, 
 WinWaitActive, EVE,
+
+ActivateRetriever()
 
 Undock()
 
@@ -155,31 +161,14 @@ StartMining(n)
 
 Goto Mining
 ; ---------------------------------------------------------------------
-
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
 #t::
 WinWait, EVE, 
 IfWinNotActive, EVE, , WinActivate, EVE, 
 WinWaitActive, EVE,
-
-;Select jet can
-MouseClick, left,  831,  185
-Sleep, 2*d
-
-; Approach container
-MouseClick, left,  789,  101
-Sleep, 2*d
-
-;Open jet can
-MouseClick, left,  838,  100
-Sleep, 2*d
-
-; Rename jet can
-MouseClick, right,  825,  184
-Sleep, 2*d
-MouseClick, left,  819,  286
-Sleep, 2*d
-Send, {SHIFTDOWN}c{SHIFTUP}argo{SPACE}{SHIFTDOWN}c{SHIFTUP}ontainer{ENTER}
-Sleep, 2*d
 
 
 End:

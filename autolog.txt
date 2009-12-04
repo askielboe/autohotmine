@@ -1718,3 +1718,68 @@
 04/12/2009 13:02:46 - Zooming camera out 
 04/12/2009 13:02:49 - Warping to asteroid belt 8. 
 04/12/2009 13:03:25 - EVE window not active. Exiting AutoKeyboard. 
+04/12/2009 13:44:22 - Mining session started. Assuming system 8. 
+04/12/2009 13:44:25 - Not all miners are running. Reactivating... 
+04/12/2009 13:45:36 - Not all miners are running. Reactivating... 
+04/12/2009 13:46:34 - Returning to station. 
+04/12/2009 13:47:43 - Docking completed. 
+04/12/2009 13:47:48 - Waiting for ship cooldown to finish (30 sec). 
+04/12/2009 13:47:50 - Repairing Retriever. 
+04/12/2009 13:49:15 - Repairing Retriever. 
+04/12/2009 13:50:21 - Moving loot to station. 
+04/12/2009 13:50:34 - ERROR: Can't move loot to station. Exiting! 
+04/12/2009 13:53:02 - ,  
+04/12/2009 13:53:20 - ,  
+04/12/2009 13:53:32 - ,  
+04/12/2009 13:53:56 - ,  
+04/12/2009 13:54:06 - ,  
+04/12/2009 13:54:47 - ,  
+04/12/2009 13:55:49 - 570, 617 
+04/12/2009 13:55:59 - ,  
+04/12/2009 13:56:07 - 570, 617 
+04/12/2009 13:56:36 - ,  
+04/12/2009 13:57:14 - 468, 666 
+04/12/2009 13:58:02 - ,  
+04/12/2009 13:58:05 - ,  
+04/12/2009 13:58:10 - ,  
+04/12/2009 13:58:12 - 316, 698 
+04/12/2009 13:58:21 - ,  
+04/12/2009 13:58:24 - 468, 666 
+04/12/2009 13:59:34 - ,  
+04/12/2009 13:59:36 - 515, 660 
+04/12/2009 14:00:27 - Moving loot to station. 
+04/12/2009 14:01:44 - 495, 660 
+04/12/2009 14:06:17 - Undocking completed. 
+04/12/2009 14:06:19 - Zooming camera out 
+04/12/2009 14:06:22 - Warping to asteroid belt 8. 
+04/12/2009 14:07:42 - Warping complete. 
+04/12/2009 14:07:46 - Making new jet can. 
+04/12/2009 14:09:15 - Mining session started. Assuming system 8. 
+04/12/2009 14:41:04 - Jet can is over 59 percent full. 
+04/12/2009 14:41:17 - Returning to station. 
+04/12/2009 14:42:21 - Docking completed. 
+04/12/2009 14:42:26 - Waiting for ship cooldown to finish (30 sec). 
+04/12/2009 14:42:27 - Repairing Retriever. 
+04/12/2009 14:45:40 - EVE window not active. Exiting AutoKeyboard. 
+04/12/2009 14:46:55 - 42, 730 
+04/12/2009 14:47:47 - 42, 730 
+04/12/2009 14:48:37 - ,  
+04/12/2009 14:49:46 - Warping to asteroid belt 8. 
+04/12/2009 14:50:56 - Warping complete. 
+04/12/2009 14:51:10 - Approaching jet can. 
+04/12/2009 14:51:33 - Jet can looting completed. 
+04/12/2009 14:51:38 - Returning to station. 
+04/12/2009 14:52:50 - Approaching jet can. 
+04/12/2009 14:53:59 - Approaching jet can. 
+04/12/2009 14:55:01 - Jet can looting completed. 
+04/12/2009 14:55:06 - Returning to station. 
+04/12/2009 14:56:15 - Docking completed. 
+04/12/2009 14:56:20 - Moving loot to station. 
+04/12/2009 14:57:00 - Selecting random asteroid field (4). 
+04/12/2009 14:57:53 - Undocking completed. 
+04/12/2009 14:57:54 - Zooming camera out 
+04/12/2009 14:57:57 - Warping to asteroid belt 4. 
+04/12/2009 14:59:18 - Warping complete. 
+04/12/2009 14:59:22 - Making new jet can. 
+04/12/2009 15:00:42 - EVE window not active. Exiting AutoKeyboard. 
+04/12/2009 15:01:25 - Making new jet can. 

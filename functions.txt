@@ -23,7 +23,7 @@ Sleep, d/10
 ;-----------------------------FUNCTION------------------------------
 LocWin(arg)
 {
-	ImageSearch, WItemx, WItemy, 0, 0, 1024, 790, images/icon_itemwindow.bmp
+	ImageSearch, WItemx, WItemy, 0, 0, 1024, 790, .\images\icon_itemwindow.bmp
 	If !ErrorLevel
 	{
 		If (arg = 1)
@@ -38,7 +38,7 @@ LocWin(arg)
 		}
 	}
 		
-	;ImageSearch, WShipx, WShipy, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+	;ImageSearch, WShipx, WShipy, 0, 0, 1024, 790, .\images\icon_shipwindow.bmp
 	;	If !ErrorLevel
 	;	{
 	;	If (arg = 1)
@@ -57,7 +57,7 @@ LocWin(arg)
 RemoveExcessTargets()
 {
 	Global d
-	ImageSearch, Px, Py, 350, 40, 400, 110,  images/black.png
+	ImageSearch, Px, Py, 350, 40, 400, 110,  .\images\black.png
 	if ErrorLevel
 	{
 		MouseClick, left,  378,  74
@@ -75,7 +75,7 @@ ClearTargets()
 		IfWinNotActive, EVE
 		Goto, End
 
-		ImageSearch, Px, Py, 640, 40, 800, 100,  images/black.png
+		ImageSearch, Px, Py, 640, 40, 800, 100,  .\images\black.png
 		if ErrorLevel
 	   	{
 	    		MouseClick, left,  672,  77
@@ -105,7 +105,7 @@ Sleep, 1*d
 ;Deselect all targets
 While, 1
 {
-	ImageSearch, Px, Py, 645, 48, 701, 103,  images/black.png
+	ImageSearch, Px, Py, 645, 48, 701, 103,  .\images\black.png
 	if ErrorLevel
 	{
 		MouseClick, left,  672,  75
@@ -214,7 +214,7 @@ Sleep, 5000
 while, 1
 {
 	CheckEVE()
-	ImageSearch, Px, Py, 5, 730, 100, 780, images/black.png
+	ImageSearch, Px, Py, 5, 350, 100, 450, .\images\black.png
 	if ErrorLevel {
 		Sleep, Round(2.5*d) ; we're undocked (but wait a bit before warping)
 		Log("Undocking completed.")
@@ -449,21 +449,22 @@ MouseClick, left,  22,  648
 Sleep, 1*d
 
 ; Activate mammoth
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_shipwindow.bmp
 MouseClick, left, Px, Py+50
 Sleep, 0.5*d
 
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_mammoth.bmp
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_large_mammoth.bmp
 If ErrorLevel ; If we dont find the ship, try to scroll up
 {
 	MouseClick, WU,,,3
 	Sleep, 0.5*d
-	ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_mammoth.bmp
+	ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_large_mammoth.bmp
 }
 MouseClick, right,  Px+10,  Py+10
 Sleep, 1*d
 MouseMove, 0, 0
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/text_make_active.bmp
+Sleep, 1*d
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\text_make_active.bmp
 MouseClick, left,  Px+5,  Py+5
 Sleep, Round(2.5*d)
 
@@ -477,25 +478,25 @@ Global d
 MouseClick, left,  20,  653
 Sleep, 1*d
 
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_shipwindow.bmp
 MouseClick, left, Px, Py+50
 Sleep, 0.5*d
 MouseClick, WD,,,3
 Sleep, 1*d
 
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_retriever.bmp
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_large_retriever.bmp
 If ErrorLevel ; If we don't find the ship try and scroll down
 {
 	MouseClick, WU,,,3
 	Sleep, 0.5*d
-	ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_retriever.bmp
+	ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\icon_large_retriever.bmp
 }
 
 ;Activate retriever
 MouseClick, right,  Px+10,  Py+10
 Sleep, 1*d
 MouseMove, 0, 0
-ImageSearch, Px, Py, 0, 0, 1024, 790, images/text_make_active.bmp
+ImageSearch, Px, Py, 0, 0, 1024, 790, .\images\text_make_active.bmp
 MouseClick, left,  Px+5,  Py+5
 Sleep, Round(2.5*d)
 }
@@ -603,7 +604,7 @@ RepairRetriever()
 Log("Repairing Retriever.")
 
 ; Function assumes to be docked!
-MouseClick, left,  796,  465 ; Click the repair button (is it the same place)?
+MouseClick, left,  792,  369 ; Click the repair button (is it the same place)?
 Sleep, 2*d
 
 Loop, 60 ; Look for the ship logo for one min and click it if we find it.
@@ -647,7 +648,7 @@ ReactivateMiners(n)
 
 	;Check for full number of targets (= numer of miners)
 	
-	ImageSearch, Px, Py, 645 - (n-1)*97, 48, 701 - (n-1)*97, 103,  images/black.png
+	ImageSearch, Px, Py, 645 - (n-1)*97, 48, 701 - (n-1)*97, 103,  .\images\black.png
 	If !ErrorLevel
 	{
 		StartMining(n) ; Restart mining (by clearing and reselecting targets)
