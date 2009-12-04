@@ -1,0 +1,1720 @@
+23/11/2009 12:25:47 - Mining session started. Assuming system %m%. 
+23/11/2009 12:57:12 - Jet can is over 60 percent full. 
+23/11/2009 12:57:24 - Returning to station. 
+23/11/2009 12:58:23 - Docking completed. Waiting for ship cooldown to finish (30 sec). 
+23/11/2009 12:59:33 - Undocking completed. 
+23/11/2009 12:59:34 - Warping to asteroid belt 7. 
+23/11/2009 13:00:48 - Warping complete. 
+23/11/2009 13:00:56 - Approaching jet can. 
+23/11/2009 13:01:08 - Jet can looting completed. 
+23/11/2009 13:01:10 - Returning to station. 
+23/11/2009 13:02:12 - Docking completed. Waiting for ship cooldown to finish (30 sec). 
+23/11/2009 13:02:43 - Moving loot to station. 
+23/11/2009 13:02:49 - Selecting random asteroid field (3). 
+23/11/2009 13:02:56 - Repairing Retriever. 
+23/11/2009 13:04:14 - Undocking completed. 
+23/11/2009 13:04:15 - Warping to asteroid belt 3. 
+23/11/2009 13:05:47 - Warping complete. 
+23/11/2009 13:05:50 - Making new jet can. 
+23/11/2009 17:59:44 - Mining session started. Assuming system %m%. 
+23/11/2009 18:00:08 - Mining session started. Assuming system %m%. 
+23/11/2009 18:02:07 - Mining session started. Assuming system 6. 
+23/11/2009 18:03:30 - Mining session started. Assuming system 6. 
+23/11/2009 18:07:20 - Mining session started. Assuming system 6. 
+23/11/2009 18:07:29 - EVE window not active. Exiting AutoKeyboard. 
+23/11/2009 18:08:39 - Mining session started. Assuming system 6. 
+23/11/2009 18:15:14 - We ARE mining! 
+23/11/2009 18:18:19 - Mining session started. Assuming system 6. 
+23/11/2009 18:19:02 - EVE window not active. Exiting AutoKeyboard. 
+23/11/2009 18:20:30 - 3000 
+23/11/2009 18:21:13 - 3000 
+23/11/2009 18:21:14 -  
+23/11/2009 18:25:29 - 3000 
+23/11/2009 18:25:30 -  
+23/11/2009 18:26:01 - 3000 
+23/11/2009 18:26:03 -  
+23/11/2009 18:26:21 - 3000 
+23/11/2009 18:26:22 - 6000 
+23/11/2009 18:27:43 - Mining session started. Assuming system 6. 
+23/11/2009 18:27:57 - EVE window not active. Exiting AutoKeyboard. 
+23/11/2009 18:31:42 - Mining session started. Assuming system 8. 
+23/11/2009 18:32:02 - Mining session started. Assuming system 9. 
+23/11/2009 18:34:39 - Mining session started. Assuming system 9. 
+23/11/2009 18:35:46 - Not all miners are running. Reactivating... 
+23/11/2009 18:36:49 - Not all miners are running. Reactivating... 
+23/11/2009 18:38:18 - All miners running! 
+23/11/2009 18:38:33 - All miners running! 
+23/11/2009 18:40:44 - Black not found (we have a target) 
+23/11/2009 18:40:50 - Black not found (we have a target) 
+23/11/2009 18:40:55 - Black not found (we have a target) 
+23/11/2009 18:41:08 - Black found, target missing 
+23/11/2009 18:42:12 - Mining session started. Assuming system 9. 
+23/11/2009 18:43:03 - Not all miners are running. Reactivating... 
+23/11/2009 18:43:48 - Mining session started. Assuming system 9. 
+23/11/2009 18:44:52 - Not all miners are running. Reactivating... 
+23/11/2009 18:48:29 - Mining session started. Assuming system 9. 
+23/11/2009 18:49:33 - Not all miners are running. Reactivating... 
+23/11/2009 18:50:39 - Mining session started. Assuming system 9. 
+23/11/2009 18:53:29 - EVE window not active. Exiting AutoKeyboard. 
+23/11/2009 18:54:07 - 10 
+23/11/2009 18:55:20 - Mining session started. Assuming system 9. 
+23/11/2009 19:05:22 - Not all miners are running. Reactivating... 
+23/11/2009 19:09:07 - Not all miners are running. Reactivating... 
+23/11/2009 20:56:22 - Repairing Retriever. 
+23/11/2009 21:01:52 - Repairing Retriever. 
+23/11/2009 21:04:40 - Making new jet can. 
+23/11/2009 21:05:38 - Making new jet can. 
+23/11/2009 21:07:03 - Mining session started. Assuming system 9. 
+23/11/2009 21:07:20 - Mining session started. Assuming system 4. 
+23/11/2009 21:16:53 - Mining session started. Assuming system 4. 
+23/11/2009 21:17:38 - i = 1 
+23/11/2009 21:17:46 - i = 2 
+23/11/2009 21:17:53 - i = 3 
+23/11/2009 21:18:01 - i = 4 
+23/11/2009 21:18:08 - i = 5 
+23/11/2009 21:18:16 - i = 6 
+23/11/2009 21:20:08 - Mining session started. Assuming system 4. 
+23/11/2009 21:24:07 - Mining session started. Assuming system 4. 
+23/11/2009 21:24:55 - i = 1 
+23/11/2009 21:24:57 - target = 8 
+23/11/2009 21:25:04 - i = 2 
+23/11/2009 21:25:06 - target = 8 
+23/11/2009 21:25:14 - i = 3 
+23/11/2009 21:25:15 - target = 8 
+23/11/2009 21:25:23 - i = 4 
+23/11/2009 21:25:24 - target = 8 
+23/11/2009 21:25:31 - i = 5 
+23/11/2009 21:25:33 - target = 8 
+23/11/2009 21:25:40 - i = 6 
+23/11/2009 21:25:41 - target = 8 
+23/11/2009 21:25:49 - i = 7 
+23/11/2009 21:25:50 - target = 8 
+23/11/2009 21:25:58 - i = 8 
+23/11/2009 21:25:59 - target = 8 
+23/11/2009 21:26:07 - i = 9 
+23/11/2009 21:26:08 - target = 8 
+23/11/2009 21:27:35 - Mining session started. Assuming system 4. 
+23/11/2009 21:32:20 - Mining session started. Assuming system 4. 
+23/11/2009 21:38:52 - Mining session started. Assuming system 4. 
+23/11/2009 21:42:27 - Jet can is over 60 percent full. 
+23/11/2009 21:42:40 - Returning to station. 
+23/11/2009 21:47:14 - Returning to station. 
+23/11/2009 21:47:18 - Docking completed. Waiting for ship cooldown to finish (30 sec). 
+23/11/2009 21:48:38 - Undocking completed. 
+23/11/2009 21:48:39 - Warping to asteroid belt 4. 
+23/11/2009 21:55:23 - Warping to asteroid belt 4. 
+23/11/2009 21:57:28 - Warping to asteroid belt 4. 
+23/11/2009 21:57:43 - Warping complete. 
+23/11/2009 21:57:58 - Approaching jet can. 
+23/11/2009 21:58:48 - Jet can looting completed. 
+23/11/2009 21:58:53 - Returning to station. 
+23/11/2009 22:00:26 - Warping to asteroid belt 4. 
+23/11/2009 22:00:41 - Warping complete. 
+23/11/2009 22:00:55 - Approaching jet can. 
+23/11/2009 22:01:59 - Returning to station. 
+23/11/2009 22:03:03 - Docking completed. Waiting for ship cooldown to finish (30 sec). 
+23/11/2009 22:05:37 - Moving loot to station. 
+23/11/2009 22:09:26 - Repairing Retriever. 
+23/11/2009 22:11:04 - Repairing Retriever. 
+23/11/2009 22:12:23 - Repairing Retriever. 
+23/11/2009 22:16:08 - Undocking completed. 
+23/11/2009 22:16:09 - Warping to asteroid belt 4. 
+23/11/2009 22:17:25 - Warping complete. 
+23/11/2009 22:17:29 - Making new jet can. 
+23/11/2009 22:18:53 - Mining session started. Assuming system 4. 
+23/11/2009 22:22:09 - EVE window not active. Exiting AutoKeyboard. 
+23/11/2009 22:22:34 - Mining session started. Assuming system 4. 
+23/11/2009 22:49:47 - Jet can is over 60 percent full. 
+23/11/2009 22:50:00 - Returning to station. 
+23/11/2009 22:50:59 - Docking completed. 
+23/11/2009 22:51:02 - Waiting for ship cooldown to finish (30 sec). 
+23/11/2009 22:51:03 - Repairing Retriever. 
+23/11/2009 22:52:19 - Undocking completed. 
+23/11/2009 22:52:21 - Warping to asteroid belt 4. 
+24/11/2009 17:18:22 - Selecting random asteroid field (6). 
+24/11/2009 17:19:47 - Selecting random asteroid field (1). 
+24/11/2009 17:20:41 - Undocking completed. 
+24/11/2009 17:20:43 - Warping to asteroid belt 1. 
+24/11/2009 17:22:14 - Warping complete. 
+24/11/2009 17:22:18 - Making new jet can. 
+24/11/2009 17:25:26 - Mining session started. Assuming system 4. 
+24/11/2009 17:29:57 - Mining session started. Assuming system 4. 
+24/11/2009 17:30:07 - EVE window not active. Exiting AutoKeyboard. 
+24/11/2009 17:30:25 - Mining session started. Assuming system 1. 
+24/11/2009 17:38:56 - Not all miners are running. Reactivating... 
+24/11/2009 17:45:44 - Mining session started. Assuming system 1. 
+24/11/2009 17:51:37 - Not all miners are running. Reactivating... 
+24/11/2009 17:59:53 - Not all miners are running. Reactivating... 
+24/11/2009 18:00:42 - Jet can is over 60 percent full. 
+24/11/2009 18:00:55 - Returning to station. 
+24/11/2009 18:02:14 - Docking completed. 
+24/11/2009 18:02:15 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 18:02:16 - Repairing Retriever. 
+24/11/2009 18:03:31 - Undocking completed. 
+24/11/2009 18:03:33 - Warping to asteroid belt 1. 
+24/11/2009 18:18:20 - Mining session started. Assuming system 1. 
+24/11/2009 18:19:12 - Undocking completed. 
+24/11/2009 18:19:13 - Warping to asteroid belt 1. 
+24/11/2009 18:20:01 - Warping complete. 
+24/11/2009 18:20:15 - Approaching jet can. 
+24/11/2009 18:22:38 - Approaching jet can. 
+24/11/2009 18:24:07 - Approaching jet can. 
+24/11/2009 18:25:19 - 0 
+24/11/2009 18:25:31 - 0 
+24/11/2009 18:26:16 - 0 
+24/11/2009 18:26:27 - 0 
+24/11/2009 18:27:05 - 0 
+24/11/2009 18:27:14 - 0 
+24/11/2009 18:30:30 - 0 
+24/11/2009 18:30:46 - 1 
+24/11/2009 18:30:57 - 1 
+24/11/2009 18:31:47 - Approaching jet can. 
+24/11/2009 18:33:02 - Approaching jet can. 
+24/11/2009 18:33:23 - Jet can looting completed. 
+24/11/2009 18:33:28 - Returning to station. 
+24/11/2009 18:34:32 - Docking completed. 
+24/11/2009 18:34:34 - Moving loot to station. 
+24/11/2009 18:34:45 - Selecting random asteroid field (1). 
+24/11/2009 18:36:59 - Selecting random asteroid field (1). 
+24/11/2009 18:37:35 - Selecting random asteroid field (1). 
+24/11/2009 18:38:16 - Undocking completed. 
+24/11/2009 18:38:17 - Warping to asteroid belt 1. 
+24/11/2009 18:38:58 - Warping complete. 
+24/11/2009 18:39:02 - Making new jet can. 
+24/11/2009 18:41:06 - Mining session started. Assuming system 1. 
+24/11/2009 18:51:15 - Not all miners are running. Reactivating... 
+24/11/2009 19:00:26 - Not all miners are running. Reactivating... 
+24/11/2009 19:15:17 - Jet can is over 60 percent full. 
+24/11/2009 19:15:30 - Returning to station. 
+24/11/2009 19:16:59 - Docking completed. 
+24/11/2009 19:17:00 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 19:17:01 - Repairing Retriever. 
+24/11/2009 19:18:43 - Undocking completed. 
+24/11/2009 19:18:44 - Warping to asteroid belt 1. 
+24/11/2009 19:19:25 - Warping complete. 
+24/11/2009 19:19:40 - Approaching jet can. 
+24/11/2009 19:20:16 - Jet can looting completed. 
+24/11/2009 19:20:21 - Returning to station. 
+24/11/2009 19:21:30 - Docking completed. 
+24/11/2009 19:21:32 - Moving loot to station. 
+24/11/2009 19:22:09 - Selecting random asteroid field (8). 
+24/11/2009 19:23:04 - Undocking completed. 
+24/11/2009 19:23:06 - Warping to asteroid belt 8. 
+24/11/2009 19:24:23 - Warping complete. 
+24/11/2009 19:24:27 - Making new jet can. 
+24/11/2009 19:25:36 - Not all miners are running. Reactivating... 
+24/11/2009 19:57:58 - Jet can is over 60 percent full. 
+24/11/2009 19:58:11 - Returning to station. 
+24/11/2009 19:59:25 - Docking completed. 
+24/11/2009 19:59:27 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 19:59:28 - Repairing Retriever. 
+24/11/2009 20:01:07 - Undocking completed. 
+24/11/2009 20:01:09 - Warping to asteroid belt 8. 
+24/11/2009 20:02:20 - Warping complete. 
+24/11/2009 20:02:34 - Approaching jet can. 
+24/11/2009 20:02:58 - Jet can looting completed. 
+24/11/2009 20:03:04 - Returning to station. 
+24/11/2009 20:04:07 - Docking completed. 
+24/11/2009 20:04:09 - Moving loot to station. 
+24/11/2009 20:04:45 - Selecting random asteroid field (5). 
+24/11/2009 20:05:35 - Undocking completed. 
+24/11/2009 20:05:36 - Warping to asteroid belt 5. 
+24/11/2009 20:06:53 - Warping complete. 
+24/11/2009 20:06:57 - Making new jet can. 
+24/11/2009 20:08:06 - Not all miners are running. Reactivating... 
+24/11/2009 20:14:44 - Not all miners are running. Reactivating... 
+24/11/2009 20:17:57 - Not all miners are running. Reactivating... 
+24/11/2009 20:45:40 - Mining session started. Assuming system 5. 
+24/11/2009 20:47:29 - Mining session started. Assuming system 5. 
+24/11/2009 20:48:27 - Jet can is over 60 percent full. 
+24/11/2009 20:48:40 - Returning to station. 
+24/11/2009 20:50:30 - Docking completed. 
+24/11/2009 20:50:32 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 20:50:33 - Repairing Retriever. 
+24/11/2009 20:52:17 - Undocking completed. 
+24/11/2009 20:52:18 - Warping to asteroid belt 5. 
+24/11/2009 20:53:36 - Warping complete. 
+24/11/2009 20:53:50 - Approaching jet can. 
+24/11/2009 20:54:27 - Jet can looting completed. 
+24/11/2009 20:54:32 - Returning to station. 
+24/11/2009 20:55:46 - Docking completed. 
+24/11/2009 20:55:48 - Moving loot to station. 
+24/11/2009 20:56:25 - Selecting random asteroid field (5). 
+24/11/2009 20:57:15 - Undocking completed. 
+24/11/2009 20:57:16 - Warping to asteroid belt 5. 
+24/11/2009 20:58:34 - Warping complete. 
+24/11/2009 20:58:38 - Making new jet can. 
+24/11/2009 20:59:47 - Not all miners are running. Reactivating... 
+24/11/2009 21:32:05 - Jet can is over 60 percent full. 
+24/11/2009 21:32:18 - Returning to station. 
+24/11/2009 21:34:07 - Docking completed. 
+24/11/2009 21:34:09 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 21:34:10 - Repairing Retriever. 
+24/11/2009 21:35:54 - Undocking completed. 
+24/11/2009 21:35:55 - Warping to asteroid belt 5. 
+24/11/2009 21:37:13 - Warping complete. 
+24/11/2009 21:37:27 - Approaching jet can. 
+24/11/2009 21:38:01 - Jet can looting completed. 
+24/11/2009 21:38:06 - Returning to station. 
+24/11/2009 21:39:25 - Docking completed. 
+24/11/2009 21:39:26 - Moving loot to station. 
+24/11/2009 21:40:04 - Selecting random asteroid field (7). 
+24/11/2009 21:40:55 - Undocking completed. 
+24/11/2009 21:40:56 - Warping to asteroid belt 7. 
+24/11/2009 21:42:08 - Warping complete. 
+24/11/2009 21:42:12 - Making new jet can. 
+24/11/2009 21:43:21 - Not all miners are running. Reactivating... 
+24/11/2009 22:15:43 - Jet can is over 60 percent full. 
+24/11/2009 22:15:56 - Returning to station. 
+24/11/2009 22:17:00 - Docking completed. 
+24/11/2009 22:17:02 - Waiting for ship cooldown to finish (30 sec). 
+24/11/2009 22:17:03 - Repairing Retriever. 
+24/11/2009 22:18:45 - Undocking completed. 
+24/11/2009 22:18:46 - Warping to asteroid belt 7. 
+24/11/2009 22:19:58 - Warping complete. 
+24/11/2009 22:20:12 - Approaching jet can. 
+24/11/2009 22:20:38 - Jet can looting completed. 
+24/11/2009 22:20:43 - Returning to station. 
+24/11/2009 22:21:47 - Docking completed. 
+24/11/2009 22:21:48 - Moving loot to station. 
+24/11/2009 22:22:26 - Selecting random asteroid field (5). 
+24/11/2009 22:22:57 - Undocking completed. 
+24/11/2009 22:22:58 - Warping to asteroid belt 5. 
+24/11/2009 22:24:16 - Warping complete. 
+24/11/2009 22:24:19 - Making new jet can. 
+24/11/2009 22:25:29 - Not all miners are running. Reactivating... 
+26/11/2009 10:54:48 - Mining session started. Assuming system 1. 
+26/11/2009 10:55:37 - Mining session started. Assuming system 1. 
+26/11/2009 11:27:25 - Jet can is over 60 percent full. 
+26/11/2009 11:27:37 - Returning to station. 
+26/11/2009 11:28:51 - Docking completed. 
+26/11/2009 11:28:52 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 11:28:54 - Repairing Retriever. 
+26/11/2009 11:30:19 - Undocking completed. 
+26/11/2009 11:30:21 - Warping to asteroid belt 1. 
+26/11/2009 11:31:02 - Warping complete. 
+26/11/2009 11:31:16 - Approaching jet can. 
+26/11/2009 11:31:52 - Jet can looting completed. 
+26/11/2009 11:31:58 - Returning to station. 
+26/11/2009 11:32:56 - Docking completed. 
+26/11/2009 11:32:58 - Moving loot to station. 
+26/11/2009 11:33:11 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 11:42:04 -   
+26/11/2009 11:42:42 - 52 48 
+26/11/2009 11:49:43 - Moving loot to station. 
+26/11/2009 11:49:56 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 11:51:07 - WItemx + 50 WItemy + 87 
+26/11/2009 11:51:37 - 102 135 
+26/11/2009 11:51:40 - 102 135 
+26/11/2009 11:52:03 - Moving loot to station. 
+26/11/2009 11:52:15 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 11:53:22 - 102 135 
+26/11/2009 11:53:50 - Moving loot to station. 
+26/11/2009 11:54:03 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 11:54:17 - Moving loot to station. 
+26/11/2009 11:54:20 -   
+26/11/2009 11:54:31 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 12:07:26 -  
+26/11/2009 13:11:31 - Moving loot to station. 
+26/11/2009 13:11:35 -   
+26/11/2009 13:11:45 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 13:12:49 - Moving loot to station. 
+26/11/2009 13:12:53 -   
+26/11/2009 13:13:04 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 13:14:19 -   
+26/11/2009 13:15:18 -    
+26/11/2009 13:15:44 - Great success! 
+26/11/2009 13:15:46 -    
+26/11/2009 13:16:32 - Great success! 
+26/11/2009 13:16:34 - 102 102 102 
+26/11/2009 13:16:56 -    
+26/11/2009 13:17:15 -    
+26/11/2009 13:17:26 - Great success! 
+26/11/2009 13:17:27 - 91 91 91 
+26/11/2009 13:18:07 - Great success! 
+26/11/2009 13:18:09 -  91 135 
+26/11/2009 13:18:14 - Great success! 
+26/11/2009 13:18:16 -  314 507 
+26/11/2009 13:18:20 - Great success! 
+26/11/2009 13:18:22 -  157 368 
+26/11/2009 13:19:09 - Great success! 
+26/11/2009 13:19:11 -  557 182 
+26/11/2009 13:19:13 - Moving loot to station. 
+26/11/2009 13:19:16 - 557 182 
+26/11/2009 13:24:46 -  
+26/11/2009 13:27:31 - Not Found! 
+26/11/2009 13:28:07 - Not Found! 
+26/11/2009 13:28:28 - Not Found! 
+26/11/2009 13:28:39 - Not Found! 
+26/11/2009 13:28:53 - Not Found! 
+26/11/2009 13:29:19 - Not Found! 
+26/11/2009 13:29:59 -  
+26/11/2009 13:30:01 - Not Found! 
+26/11/2009 13:30:07 -  
+26/11/2009 13:30:08 - Not Found! 
+26/11/2009 13:30:35 -  
+26/11/2009 13:30:36 - Not Found! 
+26/11/2009 13:30:58 -  
+26/11/2009 13:31:00 - Not Found! 
+26/11/2009 13:31:47 -  
+26/11/2009 13:31:49 - Not Found! 
+26/11/2009 13:32:17 -  
+26/11/2009 13:32:18 - Not Found! 
+26/11/2009 13:32:23 -  
+26/11/2009 13:32:25 - Not Found! 
+26/11/2009 13:32:30 -  
+26/11/2009 13:32:31 - Not Found! 
+26/11/2009 13:34:19 -  
+26/11/2009 13:34:21 - 465 
+26/11/2009 13:34:32 -  
+26/11/2009 13:34:34 - Not Found! 
+26/11/2009 13:34:40 -  
+26/11/2009 13:34:41 - 62 
+26/11/2009 13:35:59 -  
+26/11/2009 13:36:01 - 487 
+26/11/2009 13:58:40 - Moving loot to station. 
+26/11/2009 14:11:17 - Undocking completed. 
+26/11/2009 14:11:19 - Warping to asteroid belt 1. 
+26/11/2009 14:12:18 - Warping complete. 
+26/11/2009 14:12:21 - Making new jet can. 
+26/11/2009 14:18:16 - Mining session started. Assuming system 1. 
+26/11/2009 14:52:26 - Jet can is over 60 percent full. 
+26/11/2009 14:52:39 - Returning to station. 
+26/11/2009 14:53:42 - Docking completed. 
+26/11/2009 14:53:44 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 14:53:45 - Repairing Retriever. 
+26/11/2009 14:55:19 - Undocking completed. 
+26/11/2009 14:55:20 - Zooming camera out 
+26/11/2009 14:55:23 - Warping to asteroid belt 1. 
+26/11/2009 14:56:05 - Warping complete. 
+26/11/2009 14:56:19 - Approaching jet can. 
+26/11/2009 14:57:00 - Jet can looting completed. 
+26/11/2009 14:57:05 - Returning to station. 
+26/11/2009 14:58:09 - Docking completed. 
+26/11/2009 14:58:10 - Moving loot to station. 
+26/11/2009 14:58:49 - Selecting random asteroid field (3). 
+26/11/2009 14:59:46 - Undocking completed. 
+26/11/2009 14:59:48 - Zooming camera out 
+26/11/2009 14:59:51 - Warping to asteroid belt 3. 
+26/11/2009 15:01:02 - Warping complete. 
+26/11/2009 15:01:06 - Making new jet can. 
+26/11/2009 15:02:15 - Not all miners are running. Reactivating... 
+26/11/2009 15:34:04 - Jet can is over 60 percent full. 
+26/11/2009 15:34:16 - Returning to station. 
+26/11/2009 15:35:15 - Docking completed. 
+26/11/2009 15:35:17 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 15:35:19 - Repairing Retriever. 
+26/11/2009 15:37:07 - Undocking completed. 
+26/11/2009 15:37:09 - Zooming camera out 
+26/11/2009 15:37:12 - Warping to asteroid belt 3. 
+26/11/2009 15:38:17 - Warping complete. 
+26/11/2009 15:38:31 - Approaching jet can. 
+26/11/2009 15:39:12 - Jet can looting completed. 
+26/11/2009 15:39:17 - Returning to station. 
+26/11/2009 15:40:46 - Docking completed. 
+26/11/2009 15:40:48 - Moving loot to station. 
+26/11/2009 15:41:28 - Selecting random asteroid field (5). 
+26/11/2009 15:42:24 - Undocking completed. 
+26/11/2009 15:42:40 - Zooming camera out 
+26/11/2009 15:42:43 - Warping to asteroid belt 5. 
+26/11/2009 16:06:13 - Mining session started. Assuming system 5. 
+26/11/2009 16:36:20 - Jet can is over 59 percent full. 
+26/11/2009 16:36:33 - Returning to station. 
+26/11/2009 16:38:12 - Docking completed. 
+26/11/2009 16:38:14 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 16:38:15 - Repairing Retriever. 
+26/11/2009 16:39:53 - Undocking completed. 
+26/11/2009 16:39:55 - Zooming camera out 
+26/11/2009 16:39:58 - Warping to asteroid belt 5. 
+26/11/2009 16:41:18 - Warping complete. 
+26/11/2009 16:41:32 - Approaching jet can. 
+26/11/2009 16:41:53 - Jet can looting completed. 
+26/11/2009 16:41:59 - Returning to station. 
+26/11/2009 16:43:03 - Docking completed. 
+26/11/2009 16:43:05 - Moving loot to station. 
+26/11/2009 16:43:17 - ERROR: Can't move loot to station. Exiting! 
+26/11/2009 16:44:07 - Moving loot to station. 
+26/11/2009 16:45:46 - Undocking completed. 
+26/11/2009 16:45:47 - Zooming camera out 
+26/11/2009 16:45:50 - Warping to asteroid belt 5. 
+26/11/2009 16:47:10 - Warping complete. 
+26/11/2009 16:47:14 - Making new jet can. 
+26/11/2009 16:48:19 - Mining session started. Assuming system 5. 
+26/11/2009 17:06:28 - Not all miners are running. Reactivating... 
+26/11/2009 17:18:56 - Jet can is over 59 percent full. 
+26/11/2009 17:19:09 - Returning to station. 
+26/11/2009 17:20:53 - Docking completed. 
+26/11/2009 17:20:54 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 17:20:56 - Repairing Retriever. 
+26/11/2009 17:26:08 - Undocking completed. 
+26/11/2009 17:26:09 - Zooming camera out 
+26/11/2009 17:26:13 - Warping to asteroid belt 5. 
+26/11/2009 17:27:33 - Warping complete. 
+26/11/2009 17:27:47 - Approaching jet can. 
+26/11/2009 17:29:36 - Jet can looting completed. 
+26/11/2009 17:29:41 - Returning to station. 
+26/11/2009 17:31:44 - Returning to station. 
+26/11/2009 17:32:13 - Docking completed. 
+26/11/2009 17:32:14 - Moving loot to station. 
+26/11/2009 17:32:54 - Selecting random asteroid field (6). 
+26/11/2009 17:33:51 - Undocking completed. 
+26/11/2009 17:33:52 - Zooming camera out 
+26/11/2009 17:33:56 - Warping to asteroid belt 6. 
+26/11/2009 17:35:16 - Warping complete. 
+26/11/2009 17:35:20 - Making new jet can. 
+26/11/2009 17:36:25 - Mining session started. Assuming system 6. 
+26/11/2009 17:57:04 - EVE window not active. Exiting AutoKeyboard. 
+26/11/2009 18:00:17 - Mining session started. Assuming system 6. 
+26/11/2009 18:11:39 - Jet can is over 59 percent full. 
+26/11/2009 18:11:52 - Returning to station. 
+26/11/2009 18:12:56 - Docking completed. 
+26/11/2009 18:12:58 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 18:12:59 - Repairing Retriever. 
+26/11/2009 18:14:47 - Undocking completed. 
+26/11/2009 18:14:49 - Zooming camera out 
+26/11/2009 18:14:52 - Warping to asteroid belt 6. 
+26/11/2009 18:16:02 - Warping complete. 
+26/11/2009 18:16:16 - Approaching jet can. 
+26/11/2009 18:16:38 - Jet can looting completed. 
+26/11/2009 18:16:43 - Returning to station. 
+26/11/2009 18:17:42 - Docking completed. 
+26/11/2009 18:17:44 - Moving loot to station. 
+26/11/2009 18:18:24 - Selecting random asteroid field (9). 
+26/11/2009 18:19:21 - Undocking completed. 
+26/11/2009 18:19:22 - Zooming camera out 
+26/11/2009 18:19:26 - Warping to asteroid belt 9. 
+26/11/2009 18:20:36 - Warping complete. 
+26/11/2009 18:20:40 - Making new jet can. 
+26/11/2009 18:21:49 - Not all miners are running. Reactivating... 
+26/11/2009 18:27:44 - Mining session started. Assuming system 6. 
+26/11/2009 18:28:00 - Mining session started. Assuming system 9. 
+26/11/2009 18:52:39 - Jet can is over 59 percent full. 
+26/11/2009 18:52:52 - Returning to station. 
+26/11/2009 18:54:06 - Docking completed. 
+26/11/2009 18:54:12 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 18:54:14 - Repairing Retriever. 
+26/11/2009 18:56:02 - Undocking completed. 
+26/11/2009 18:56:04 - Zooming camera out 
+26/11/2009 18:56:07 - Warping to asteroid belt 9. 
+26/11/2009 18:57:17 - Warping complete. 
+26/11/2009 18:57:32 - Approaching jet can. 
+26/11/2009 18:58:05 - Jet can looting completed. 
+26/11/2009 18:58:11 - Returning to station. 
+26/11/2009 18:59:15 - Docking completed. 
+26/11/2009 18:59:20 - Moving loot to station. 
+26/11/2009 19:00:00 - Selecting random asteroid field (9). 
+26/11/2009 19:00:57 - Undocking completed. 
+26/11/2009 19:00:58 - Zooming camera out 
+26/11/2009 19:01:02 - Warping to asteroid belt 9. 
+26/11/2009 19:02:22 - Warping complete. 
+26/11/2009 19:02:26 - Making new jet can. 
+26/11/2009 19:35:53 - Jet can is over 59 percent full. 
+26/11/2009 19:36:06 - Returning to station. 
+26/11/2009 19:37:10 - Docking completed. 
+26/11/2009 19:37:16 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 19:37:17 - Repairing Retriever. 
+26/11/2009 19:39:05 - Undocking completed. 
+26/11/2009 19:39:06 - Zooming camera out 
+26/11/2009 19:39:10 - Warping to asteroid belt 9. 
+26/11/2009 19:40:20 - Warping complete. 
+26/11/2009 19:40:34 - Approaching jet can. 
+26/11/2009 19:41:15 - Jet can looting completed. 
+26/11/2009 19:41:21 - Returning to station. 
+26/11/2009 19:42:40 - Docking completed. 
+26/11/2009 19:42:45 - Moving loot to station. 
+26/11/2009 19:43:26 - Selecting random asteroid field (9). 
+26/11/2009 19:44:23 - Undocking completed. 
+26/11/2009 19:44:24 - Zooming camera out 
+26/11/2009 19:44:27 - Warping to asteroid belt 9. 
+26/11/2009 19:45:48 - Warping complete. 
+26/11/2009 19:45:52 - Making new jet can. 
+26/11/2009 20:17:16 - Jet can is over 59 percent full. 
+26/11/2009 20:17:29 - Returning to station. 
+26/11/2009 20:18:28 - Docking completed. 
+26/11/2009 20:18:35 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 20:18:36 - Repairing Retriever. 
+26/11/2009 20:20:25 - Undocking completed. 
+26/11/2009 20:20:26 - Zooming camera out 
+26/11/2009 20:20:29 - Warping to asteroid belt 9. 
+26/11/2009 20:21:39 - Warping complete. 
+26/11/2009 20:21:53 - Approaching jet can. 
+26/11/2009 20:22:15 - Jet can looting completed. 
+26/11/2009 20:22:21 - Returning to station. 
+26/11/2009 20:23:19 - Docking completed. 
+26/11/2009 20:23:26 - Moving loot to station. 
+26/11/2009 20:24:06 - Selecting random asteroid field (1). 
+26/11/2009 20:25:03 - Undocking completed. 
+26/11/2009 20:25:05 - Zooming camera out 
+26/11/2009 20:25:08 - Warping to asteroid belt 1. 
+26/11/2009 20:25:58 - Warping complete. 
+26/11/2009 20:26:02 - Making new jet can. 
+26/11/2009 20:58:47 - Jet can is over 59 percent full. 
+26/11/2009 20:59:00 - Returning to station. 
+26/11/2009 21:00:29 - Docking completed. 
+26/11/2009 21:00:34 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 21:00:36 - Repairing Retriever. 
+26/11/2009 21:02:24 - Undocking completed. 
+26/11/2009 21:02:25 - Zooming camera out 
+26/11/2009 21:02:28 - Warping to asteroid belt 1. 
+26/11/2009 21:03:08 - Warping complete. 
+26/11/2009 21:03:22 - Approaching jet can. 
+26/11/2009 21:03:44 - Jet can looting completed. 
+26/11/2009 21:03:49 - Returning to station. 
+26/11/2009 21:04:48 - Docking completed. 
+26/11/2009 21:04:53 - Moving loot to station. 
+26/11/2009 21:05:33 - Selecting random asteroid field (5). 
+26/11/2009 21:06:30 - Undocking completed. 
+26/11/2009 21:06:32 - Zooming camera out 
+26/11/2009 21:06:35 - Warping to asteroid belt 5. 
+26/11/2009 21:07:56 - Warping complete. 
+26/11/2009 21:08:00 - Making new jet can. 
+26/11/2009 21:41:00 - Jet can is over 59 percent full. 
+26/11/2009 21:41:13 - Returning to station. 
+26/11/2009 21:43:11 - Docking completed. 
+26/11/2009 21:43:17 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 21:43:18 - Repairing Retriever. 
+26/11/2009 21:45:06 - Undocking completed. 
+26/11/2009 21:45:08 - Zooming camera out 
+26/11/2009 21:45:11 - Warping to asteroid belt 5. 
+26/11/2009 21:46:32 - Warping complete. 
+26/11/2009 21:46:46 - Approaching jet can. 
+26/11/2009 21:47:28 - Jet can looting completed. 
+26/11/2009 21:47:33 - Returning to station. 
+26/11/2009 21:48:42 - Docking completed. 
+26/11/2009 21:48:48 - Moving loot to station. 
+26/11/2009 21:49:28 - Selecting random asteroid field (5). 
+26/11/2009 21:50:25 - Undocking completed. 
+26/11/2009 21:50:26 - Zooming camera out 
+26/11/2009 21:50:30 - Warping to asteroid belt 5. 
+26/11/2009 21:51:50 - Warping complete. 
+26/11/2009 21:51:54 - Making new jet can. 
+26/11/2009 22:23:54 - Jet can is over 59 percent full. 
+26/11/2009 22:24:07 - Returning to station. 
+26/11/2009 22:25:56 - Docking completed. 
+26/11/2009 22:26:02 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 22:26:03 - Repairing Retriever. 
+26/11/2009 22:27:45 - Undocking completed. 
+26/11/2009 22:27:46 - Zooming camera out 
+26/11/2009 22:27:49 - Warping to asteroid belt 5. 
+26/11/2009 22:29:10 - Warping complete. 
+26/11/2009 22:29:24 - Approaching jet can. 
+26/11/2009 22:29:46 - Jet can looting completed. 
+26/11/2009 22:29:51 - Returning to station. 
+26/11/2009 22:31:20 - Docking completed. 
+26/11/2009 22:31:25 - Moving loot to station. 
+26/11/2009 22:32:05 - Selecting random asteroid field (9). 
+26/11/2009 22:33:02 - Undocking completed. 
+26/11/2009 22:33:04 - Zooming camera out 
+26/11/2009 22:33:07 - Warping to asteroid belt 9. 
+26/11/2009 22:34:17 - Warping complete. 
+26/11/2009 22:34:21 - Making new jet can. 
+26/11/2009 23:07:48 - Jet can is over 59 percent full. 
+26/11/2009 23:08:01 - Returning to station. 
+26/11/2009 23:09:05 - Docking completed. 
+26/11/2009 23:09:11 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 23:09:12 - Repairing Retriever. 
+26/11/2009 23:10:54 - Undocking completed. 
+26/11/2009 23:10:56 - Zooming camera out 
+26/11/2009 23:10:59 - Warping to asteroid belt 9. 
+26/11/2009 23:12:09 - Warping complete. 
+26/11/2009 23:12:23 - Approaching jet can. 
+26/11/2009 23:13:09 - Jet can looting completed. 
+26/11/2009 23:13:14 - Returning to station. 
+26/11/2009 23:14:13 - Docking completed. 
+26/11/2009 23:14:19 - Moving loot to station. 
+26/11/2009 23:14:59 - Selecting random asteroid field (1). 
+26/11/2009 23:15:56 - Undocking completed. 
+26/11/2009 23:15:57 - Zooming camera out 
+26/11/2009 23:16:01 - Warping to asteroid belt 1. 
+26/11/2009 23:16:40 - Warping complete. 
+26/11/2009 23:16:44 - Making new jet can. 
+26/11/2009 23:48:08 - Jet can is over 59 percent full. 
+26/11/2009 23:48:21 - Returning to station. 
+26/11/2009 23:49:25 - Docking completed. 
+26/11/2009 23:49:31 - Waiting for ship cooldown to finish (30 sec). 
+26/11/2009 23:49:32 - Repairing Retriever. 
+26/11/2009 23:51:14 - Undocking completed. 
+26/11/2009 23:51:15 - Zooming camera out 
+26/11/2009 23:51:19 - Warping to asteroid belt 1. 
+26/11/2009 23:52:08 - Warping complete. 
+26/11/2009 23:52:22 - Approaching jet can. 
+26/11/2009 23:52:44 - Jet can looting completed. 
+26/11/2009 23:52:49 - Returning to station. 
+26/11/2009 23:53:48 - Docking completed. 
+26/11/2009 23:53:54 - Moving loot to station. 
+26/11/2009 23:54:34 - Selecting random asteroid field (6). 
+26/11/2009 23:55:31 - Undocking completed. 
+26/11/2009 23:55:32 - Zooming camera out 
+26/11/2009 23:55:36 - Warping to asteroid belt 6. 
+26/11/2009 23:56:56 - Warping complete. 
+26/11/2009 23:57:00 - Making new jet can. 
+27/11/2009 00:30:44 - Jet can is over 59 percent full. 
+27/11/2009 00:30:57 - Returning to station. 
+27/11/2009 00:32:16 - Docking completed. 
+27/11/2009 00:32:23 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 00:32:25 - Repairing Retriever. 
+27/11/2009 00:33:55 - Undocking completed. 
+27/11/2009 00:33:57 - Zooming camera out 
+27/11/2009 00:34:00 - Warping to asteroid belt 6. 
+27/11/2009 00:35:10 - Warping complete. 
+27/11/2009 00:35:25 - Approaching jet can. 
+27/11/2009 00:36:10 - Jet can looting completed. 
+27/11/2009 00:36:16 - Returning to station. 
+27/11/2009 00:37:15 - Docking completed. 
+27/11/2009 00:37:20 - Moving loot to station. 
+27/11/2009 00:38:00 - Selecting random asteroid field (5). 
+27/11/2009 00:38:57 - Undocking completed. 
+27/11/2009 00:38:59 - Zooming camera out 
+27/11/2009 00:39:02 - Warping to asteroid belt 5. 
+27/11/2009 00:40:23 - Warping complete. 
+27/11/2009 00:40:27 - Making new jet can. 
+27/11/2009 01:11:35 - Jet can is over 59 percent full. 
+27/11/2009 01:11:48 - Returning to station. 
+27/11/2009 01:13:27 - Docking completed. 
+27/11/2009 01:13:33 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 01:13:35 - Repairing Retriever. 
+27/11/2009 01:15:06 - Undocking completed. 
+27/11/2009 01:15:07 - Zooming camera out 
+27/11/2009 01:15:10 - Warping to asteroid belt 5. 
+27/11/2009 01:16:20 - Warping complete. 
+27/11/2009 01:16:35 - Approaching jet can. 
+27/11/2009 01:17:12 - Jet can looting completed. 
+27/11/2009 01:17:18 - Returning to station. 
+27/11/2009 01:18:36 - Docking completed. 
+27/11/2009 01:18:42 - Moving loot to station. 
+27/11/2009 01:19:22 - Selecting random asteroid field (5). 
+27/11/2009 01:20:19 - Undocking completed. 
+27/11/2009 01:20:20 - Zooming camera out 
+27/11/2009 01:20:23 - Warping to asteroid belt 5. 
+27/11/2009 01:21:44 - Warping complete. 
+27/11/2009 01:21:48 - Making new jet can. 
+27/11/2009 01:53:16 - Jet can is over 59 percent full. 
+27/11/2009 01:53:29 - Returning to station. 
+27/11/2009 01:55:23 - Docking completed. 
+27/11/2009 01:55:28 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 01:55:30 - Repairing Retriever. 
+27/11/2009 01:57:01 - Undocking completed. 
+27/11/2009 01:57:02 - Zooming camera out 
+27/11/2009 01:57:05 - Warping to asteroid belt 5. 
+27/11/2009 01:58:26 - Warping complete. 
+27/11/2009 01:58:40 - Approaching jet can. 
+27/11/2009 01:59:18 - Jet can looting completed. 
+27/11/2009 01:59:23 - Returning to station. 
+27/11/2009 02:00:32 - Docking completed. 
+27/11/2009 02:00:38 - Moving loot to station. 
+27/11/2009 02:01:17 - Selecting random asteroid field (6). 
+27/11/2009 02:02:15 - Undocking completed. 
+27/11/2009 02:02:16 - Zooming camera out 
+27/11/2009 02:02:20 - Warping to asteroid belt 6. 
+27/11/2009 02:03:40 - Warping complete. 
+27/11/2009 02:03:44 - Making new jet can. 
+27/11/2009 02:36:17 - Jet can is over 59 percent full. 
+27/11/2009 02:36:30 - Returning to station. 
+27/11/2009 02:37:54 - Docking completed. 
+27/11/2009 02:37:59 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 02:38:00 - Repairing Retriever. 
+27/11/2009 02:39:31 - Undocking completed. 
+27/11/2009 02:39:33 - Zooming camera out 
+27/11/2009 02:39:36 - Warping to asteroid belt 6. 
+27/11/2009 02:40:46 - Warping complete. 
+27/11/2009 02:41:01 - Approaching jet can. 
+27/11/2009 02:41:22 - Jet can looting completed. 
+27/11/2009 02:41:28 - Returning to station. 
+27/11/2009 02:42:26 - Docking completed. 
+27/11/2009 02:42:33 - Moving loot to station. 
+27/11/2009 02:43:12 - Selecting random asteroid field (1). 
+27/11/2009 02:44:09 - Undocking completed. 
+27/11/2009 02:44:11 - Zooming camera out 
+27/11/2009 02:44:14 - Warping to asteroid belt 1. 
+27/11/2009 02:45:04 - Warping complete. 
+27/11/2009 02:45:08 - Making new jet can. 
+27/11/2009 10:24:02 - EVE window not active. Exiting AutoKeyboard. 
+27/11/2009 10:30:21 - Undocking completed. 
+27/11/2009 10:30:22 - Zooming camera out 
+27/11/2009 10:30:25 - Warping to asteroid belt 9. 
+27/11/2009 10:31:46 - Warping complete. 
+27/11/2009 10:31:50 - Making new jet can. 
+27/11/2009 10:33:18 - Mining session started. Assuming system 9. 
+27/11/2009 11:40:05 - Not all miners are running. Reactivating... 
+27/11/2009 11:42:26 - Jet can is over 59 percent full. 
+27/11/2009 11:42:39 - Returning to station. 
+27/11/2009 11:43:43 - Docking completed. 
+27/11/2009 11:43:49 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 11:43:50 - Repairing Retriever. 
+27/11/2009 11:45:19 - Undocking completed. 
+27/11/2009 11:45:20 - Zooming camera out 
+27/11/2009 11:45:24 - Warping to asteroid belt 9. 
+27/11/2009 13:10:29 - Undocking completed. 
+27/11/2009 13:10:30 - Zooming camera out 
+27/11/2009 13:10:33 - Warping to asteroid belt 8. 
+27/11/2009 13:18:37 - Warping complete. 
+27/11/2009 13:18:41 - Making new jet can. 
+27/11/2009 13:19:50 - Mining session started. Assuming system 8. 
+27/11/2009 13:49:31 - Jet can is over 59 percent full. 
+27/11/2009 13:49:44 - Returning to station. 
+27/11/2009 13:50:48 - Docking completed. 
+27/11/2009 13:50:53 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 13:50:55 - Repairing Retriever. 
+27/11/2009 13:52:39 - Undocking completed. 
+27/11/2009 13:52:40 - Zooming camera out 
+27/11/2009 13:52:44 - Warping to asteroid belt 8. 
+27/11/2009 13:53:54 - Warping complete. 
+27/11/2009 13:54:08 - Approaching jet can. 
+27/11/2009 13:54:42 - Jet can looting completed. 
+27/11/2009 13:54:48 - Returning to station. 
+27/11/2009 13:55:46 - Docking completed. 
+27/11/2009 13:55:52 - Moving loot to station. 
+27/11/2009 13:56:32 - Selecting random asteroid field (3). 
+27/11/2009 13:57:29 - Undocking completed. 
+27/11/2009 13:57:31 - Zooming camera out 
+27/11/2009 13:57:34 - Warping to asteroid belt 3. 
+27/11/2009 13:58:44 - Warping complete. 
+27/11/2009 13:58:48 - Making new jet can. 
+27/11/2009 14:30:12 - Jet can is over 59 percent full. 
+27/11/2009 14:30:25 - Returning to station. 
+27/11/2009 14:31:44 - Docking completed. 
+27/11/2009 14:31:49 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 14:31:51 - Repairing Retriever. 
+27/11/2009 14:33:35 - Undocking completed. 
+27/11/2009 14:33:36 - Zooming camera out 
+27/11/2009 14:33:39 - Warping to asteroid belt 3. 
+27/11/2009 14:34:50 - Warping complete. 
+27/11/2009 14:35:04 - Approaching jet can. 
+27/11/2009 14:35:25 - Jet can looting completed. 
+27/11/2009 14:35:31 - Returning to station. 
+27/11/2009 14:36:40 - Docking completed. 
+27/11/2009 14:36:46 - Moving loot to station. 
+27/11/2009 14:37:26 - Selecting random asteroid field (9). 
+27/11/2009 14:38:18 - Undocking completed. 
+27/11/2009 14:38:20 - Zooming camera out 
+27/11/2009 14:38:23 - Warping to asteroid belt 9. 
+27/11/2009 14:39:43 - Warping complete. 
+27/11/2009 14:39:47 - Making new jet can. 
+27/11/2009 15:13:08 - Jet can is over 59 percent full. 
+27/11/2009 15:13:21 - Returning to station. 
+27/11/2009 15:14:25 - Docking completed. 
+27/11/2009 15:14:30 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 15:14:32 - Repairing Retriever. 
+27/11/2009 15:16:16 - Undocking completed. 
+27/11/2009 15:16:17 - Zooming camera out 
+27/11/2009 15:16:20 - Warping to asteroid belt 9. 
+27/11/2009 15:17:30 - Warping complete. 
+27/11/2009 15:17:45 - Approaching jet can. 
+27/11/2009 15:18:06 - Jet can looting completed. 
+27/11/2009 15:18:12 - Returning to station. 
+27/11/2009 15:19:11 - Docking completed. 
+27/11/2009 15:19:16 - Moving loot to station. 
+27/11/2009 15:19:56 - Selecting random asteroid field (2). 
+27/11/2009 15:20:49 - Undocking completed. 
+27/11/2009 15:20:50 - Zooming camera out 
+27/11/2009 15:20:54 - Warping to asteroid belt 2. 
+27/11/2009 15:22:14 - Warping complete. 
+27/11/2009 15:22:18 - Making new jet can. 
+27/11/2009 15:58:05 - Jet can is over 59 percent full. 
+27/11/2009 15:58:18 - Returning to station. 
+27/11/2009 15:59:22 - Docking completed. 
+27/11/2009 15:59:27 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 15:59:28 - Repairing Retriever. 
+27/11/2009 16:01:12 - Undocking completed. 
+27/11/2009 16:01:14 - Zooming camera out 
+27/11/2009 16:01:17 - Warping to asteroid belt 2. 
+27/11/2009 16:02:27 - Warping complete. 
+27/11/2009 16:02:41 - Approaching jet can. 
+27/11/2009 16:03:59 - Jet can looting completed. 
+27/11/2009 16:04:04 - Returning to station. 
+27/11/2009 16:05:23 - Docking completed. 
+27/11/2009 16:05:28 - Moving loot to station. 
+27/11/2009 16:06:08 - Selecting random asteroid field (4). 
+27/11/2009 16:07:01 - Undocking completed. 
+27/11/2009 16:07:02 - Zooming camera out 
+27/11/2009 16:07:06 - Warping to asteroid belt 4. 
+27/11/2009 16:08:26 - Warping complete. 
+27/11/2009 16:08:30 - Making new jet can. 
+27/11/2009 16:41:37 - Jet can is over 59 percent full. 
+27/11/2009 16:41:50 - Returning to station. 
+27/11/2009 16:43:19 - Docking completed. 
+27/11/2009 16:43:24 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 16:43:25 - Repairing Retriever. 
+27/11/2009 16:45:14 - Undocking completed. 
+27/11/2009 16:45:15 - Zooming camera out 
+27/11/2009 16:45:18 - Warping to asteroid belt 4. 
+27/11/2009 16:46:28 - Warping complete. 
+27/11/2009 16:46:43 - Approaching jet can. 
+27/11/2009 16:47:24 - Jet can looting completed. 
+27/11/2009 16:47:30 - Returning to station. 
+27/11/2009 16:48:33 - Docking completed. 
+27/11/2009 16:48:39 - Moving loot to station. 
+27/11/2009 16:49:19 - Selecting random asteroid field (9). 
+27/11/2009 16:50:11 - Undocking completed. 
+27/11/2009 16:50:13 - Zooming camera out 
+27/11/2009 16:50:16 - Warping to asteroid belt 9. 
+27/11/2009 16:51:36 - Warping complete. 
+27/11/2009 16:51:40 - Making new jet can. 
+27/11/2009 17:26:37 - Jet can is over 59 percent full. 
+27/11/2009 17:26:50 - Returning to station. 
+27/11/2009 17:28:09 - Docking completed. 
+27/11/2009 17:28:14 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 17:28:16 - Repairing Retriever. 
+27/11/2009 17:30:00 - Undocking completed. 
+27/11/2009 17:30:01 - Zooming camera out 
+27/11/2009 17:30:04 - Warping to asteroid belt 9. 
+27/11/2009 17:31:14 - Warping complete. 
+27/11/2009 17:31:29 - Approaching jet can. 
+27/11/2009 17:32:06 - Jet can looting completed. 
+27/11/2009 17:32:12 - Returning to station. 
+27/11/2009 17:33:21 - Docking completed. 
+27/11/2009 17:33:26 - Moving loot to station. 
+27/11/2009 17:34:06 - Selecting random asteroid field (5). 
+27/11/2009 17:34:59 - Undocking completed. 
+27/11/2009 17:35:00 - Zooming camera out 
+27/11/2009 17:35:03 - Warping to asteroid belt 5. 
+27/11/2009 17:36:24 - Warping complete. 
+27/11/2009 17:36:28 - Making new jet can. 
+27/11/2009 18:10:22 - Jet can is over 59 percent full. 
+27/11/2009 18:10:35 - Returning to station. 
+27/11/2009 18:12:59 - Docking completed. 
+27/11/2009 18:13:04 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 18:13:06 - Repairing Retriever. 
+27/11/2009 18:14:54 - Undocking completed. 
+27/11/2009 18:14:55 - Zooming camera out 
+27/11/2009 18:14:58 - Warping to asteroid belt 5. 
+27/11/2009 18:16:19 - Warping complete. 
+27/11/2009 18:16:33 - Approaching jet can. 
+27/11/2009 18:17:15 - Jet can looting completed. 
+27/11/2009 18:17:20 - Returning to station. 
+27/11/2009 18:18:44 - Docking completed. 
+27/11/2009 18:18:50 - Moving loot to station. 
+27/11/2009 18:19:29 - Selecting random asteroid field (2). 
+27/11/2009 18:20:26 - Undocking completed. 
+27/11/2009 18:20:27 - Zooming camera out 
+27/11/2009 18:20:31 - Warping to asteroid belt 2. 
+27/11/2009 18:21:51 - Warping complete. 
+27/11/2009 18:21:55 - Making new jet can. 
+27/11/2009 18:55:53 - Jet can is over 59 percent full. 
+27/11/2009 18:56:05 - Returning to station. 
+27/11/2009 18:57:09 - Docking completed. 
+27/11/2009 18:57:15 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 18:57:16 - Repairing Retriever. 
+27/11/2009 18:59:02 - Undocking completed. 
+27/11/2009 18:59:03 - Zooming camera out 
+27/11/2009 18:59:07 - Warping to asteroid belt 2. 
+27/11/2009 19:00:17 - Warping complete. 
+27/11/2009 19:00:31 - Approaching jet can. 
+27/11/2009 19:00:53 - Jet can looting completed. 
+27/11/2009 19:00:58 - Returning to station. 
+27/11/2009 19:01:57 - Docking completed. 
+27/11/2009 19:02:03 - Moving loot to station. 
+27/11/2009 19:02:43 - Selecting random asteroid field (6). 
+27/11/2009 19:03:36 - Undocking completed. 
+27/11/2009 19:03:38 - Zooming camera out 
+27/11/2009 19:03:41 - Warping to asteroid belt 6. 
+27/11/2009 19:05:01 - Warping complete. 
+27/11/2009 19:05:05 - Making new jet can. 
+27/11/2009 19:38:25 - Jet can is over 59 percent full. 
+27/11/2009 19:38:38 - Returning to station. 
+27/11/2009 19:39:42 - Docking completed. 
+27/11/2009 19:39:47 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 19:39:49 - Repairing Retriever. 
+27/11/2009 19:41:35 - Undocking completed. 
+27/11/2009 19:41:36 - Zooming camera out 
+27/11/2009 19:41:39 - Warping to asteroid belt 6. 
+27/11/2009 19:42:50 - Warping complete. 
+27/11/2009 19:43:04 - Approaching jet can. 
+27/11/2009 19:43:49 - Jet can looting completed. 
+27/11/2009 19:43:55 - Returning to station. 
+27/11/2009 19:44:58 - Docking completed. 
+27/11/2009 19:45:04 - Moving loot to station. 
+27/11/2009 19:45:44 - Selecting random asteroid field (5). 
+27/11/2009 19:46:41 - Undocking completed. 
+27/11/2009 19:46:43 - Zooming camera out 
+27/11/2009 19:46:46 - Warping to asteroid belt 5. 
+27/11/2009 19:48:06 - Warping complete. 
+27/11/2009 19:48:10 - Making new jet can. 
+27/11/2009 20:24:24 - Jet can is over 59 percent full. 
+27/11/2009 20:24:36 - Returning to station. 
+27/11/2009 20:26:15 - Docking completed. 
+27/11/2009 20:26:21 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 20:26:22 - Repairing Retriever. 
+27/11/2009 20:28:08 - Undocking completed. 
+27/11/2009 20:28:10 - Zooming camera out 
+27/11/2009 20:28:13 - Warping to asteroid belt 5. 
+27/11/2009 20:29:33 - Warping complete. 
+27/11/2009 20:29:48 - Approaching jet can. 
+27/11/2009 20:30:21 - Jet can looting completed. 
+27/11/2009 20:30:27 - Returning to station. 
+27/11/2009 20:31:41 - Docking completed. 
+27/11/2009 20:31:46 - Moving loot to station. 
+27/11/2009 20:32:26 - Selecting random asteroid field (7). 
+27/11/2009 20:33:19 - Undocking completed. 
+27/11/2009 20:33:21 - Zooming camera out 
+27/11/2009 20:33:24 - Warping to asteroid belt 7. 
+27/11/2009 20:34:45 - Warping complete. 
+27/11/2009 20:34:49 - Making new jet can. 
+27/11/2009 21:06:12 - Jet can is over 59 percent full. 
+27/11/2009 21:06:25 - Returning to station. 
+27/11/2009 21:07:34 - Docking completed. 
+27/11/2009 21:07:39 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 21:07:41 - Repairing Retriever. 
+27/11/2009 21:09:08 - Undocking completed. 
+27/11/2009 21:09:10 - Zooming camera out 
+27/11/2009 21:09:13 - Warping to asteroid belt 7. 
+27/11/2009 21:10:23 - Warping complete. 
+27/11/2009 21:10:37 - Approaching jet can. 
+27/11/2009 21:10:59 - Jet can looting completed. 
+27/11/2009 21:11:05 - Returning to station. 
+27/11/2009 21:12:04 - Docking completed. 
+27/11/2009 21:12:09 - Moving loot to station. 
+27/11/2009 21:12:49 - Selecting random asteroid field (2). 
+27/11/2009 21:13:42 - Undocking completed. 
+27/11/2009 21:13:43 - Zooming camera out 
+27/11/2009 21:13:46 - Warping to asteroid belt 2. 
+27/11/2009 21:15:07 - Warping complete. 
+27/11/2009 21:15:11 - Making new jet can. 
+27/11/2009 21:51:53 - Jet can is over 59 percent full. 
+27/11/2009 21:52:06 - Returning to station. 
+27/11/2009 21:53:10 - Docking completed. 
+27/11/2009 21:53:15 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 21:53:17 - Repairing Retriever. 
+27/11/2009 21:54:44 - Undocking completed. 
+27/11/2009 21:54:46 - Zooming camera out 
+27/11/2009 21:54:49 - Warping to asteroid belt 2. 
+27/11/2009 21:55:59 - Warping complete. 
+27/11/2009 21:56:13 - Approaching jet can. 
+27/11/2009 21:56:55 - Jet can looting completed. 
+27/11/2009 21:57:00 - Returning to station. 
+27/11/2009 21:57:59 - Docking completed. 
+27/11/2009 21:58:05 - Moving loot to station. 
+27/11/2009 21:58:46 - Selecting random asteroid field (1). 
+27/11/2009 21:59:39 - Undocking completed. 
+27/11/2009 21:59:40 - Zooming camera out 
+27/11/2009 21:59:43 - Warping to asteroid belt 1. 
+27/11/2009 22:00:23 - Warping complete. 
+27/11/2009 22:00:27 - Making new jet can. 
+27/11/2009 22:31:35 - Jet can is over 59 percent full. 
+27/11/2009 22:31:47 - Returning to station. 
+27/11/2009 22:33:16 - Docking completed. 
+27/11/2009 22:33:23 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 22:33:25 - Repairing Retriever. 
+27/11/2009 22:34:52 - Undocking completed. 
+27/11/2009 22:34:54 - Zooming camera out 
+27/11/2009 22:34:57 - Warping to asteroid belt 1. 
+27/11/2009 22:35:47 - Warping complete. 
+27/11/2009 22:36:01 - Approaching jet can. 
+27/11/2009 22:36:22 - Jet can looting completed. 
+27/11/2009 22:36:28 - Returning to station. 
+27/11/2009 22:37:31 - Docking completed. 
+27/11/2009 22:37:37 - Moving loot to station. 
+27/11/2009 22:38:17 - Selecting random asteroid field (9). 
+27/11/2009 22:39:10 - Undocking completed. 
+27/11/2009 22:39:11 - Zooming camera out 
+27/11/2009 22:39:14 - Warping to asteroid belt 9. 
+27/11/2009 22:40:35 - Warping complete. 
+27/11/2009 22:40:39 - Making new jet can. 
+27/11/2009 23:13:20 - Jet can is over 59 percent full. 
+27/11/2009 23:13:33 - Returning to station. 
+27/11/2009 23:14:57 - Docking completed. 
+27/11/2009 23:15:02 - Waiting for ship cooldown to finish (30 sec). 
+27/11/2009 23:15:03 - Repairing Retriever. 
+27/11/2009 23:16:35 - Undocking completed. 
+27/11/2009 23:16:37 - Zooming camera out 
+27/11/2009 23:16:40 - Warping to asteroid belt 9. 
+27/11/2009 23:17:50 - Warping complete. 
+27/11/2009 23:18:05 - Approaching jet can. 
+27/11/2009 23:18:34 - Jet can looting completed. 
+27/11/2009 23:18:40 - Returning to station. 
+27/11/2009 23:19:43 - Docking completed. 
+27/11/2009 23:19:49 - Moving loot to station. 
+27/11/2009 23:20:29 - Selecting random asteroid field (2). 
+27/11/2009 23:21:26 - Undocking completed. 
+27/11/2009 23:21:27 - Zooming camera out 
+27/11/2009 23:21:30 - Warping to asteroid belt 2. 
+27/11/2009 23:22:40 - Warping complete. 
+27/11/2009 23:22:44 - Making new jet can. 
+27/11/2009 23:59:23 - Jet can is over 59 percent full. 
+27/11/2009 23:59:36 - Returning to station. 
+28/11/2009 00:00:50 - Docking completed. 
+28/11/2009 00:00:55 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 00:00:56 - Repairing Retriever. 
+28/11/2009 00:02:04 - Undocking completed. 
+28/11/2009 00:02:05 - Zooming camera out 
+28/11/2009 00:02:08 - Warping to asteroid belt 2. 
+28/11/2009 00:03:29 - Warping complete. 
+28/11/2009 00:03:43 - Approaching jet can. 
+28/11/2009 00:04:05 - Jet can looting completed. 
+28/11/2009 00:04:10 - Returning to station. 
+28/11/2009 00:05:39 - Docking completed. 
+28/11/2009 00:05:47 - Moving loot to station. 
+28/11/2009 00:06:27 - Selecting random asteroid field (5). 
+28/11/2009 00:06:59 - Undocking completed. 
+28/11/2009 00:07:01 - Zooming camera out 
+28/11/2009 00:07:04 - Warping to asteroid belt 5. 
+28/11/2009 00:08:24 - Warping complete. 
+28/11/2009 00:08:28 - Making new jet can. 
+28/11/2009 00:41:39 - Jet can is over 59 percent full. 
+28/11/2009 00:41:52 - Returning to station. 
+28/11/2009 00:43:36 - Docking completed. 
+28/11/2009 00:43:41 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 00:43:43 - Repairing Retriever. 
+28/11/2009 00:45:10 - Undocking completed. 
+28/11/2009 00:45:12 - Zooming camera out 
+28/11/2009 00:45:15 - Warping to asteroid belt 5. 
+28/11/2009 00:46:36 - Warping complete. 
+28/11/2009 00:46:50 - Approaching jet can. 
+28/11/2009 00:47:11 - Jet can looting completed. 
+28/11/2009 00:47:17 - Returning to station. 
+28/11/2009 00:48:30 - Docking completed. 
+28/11/2009 00:48:36 - Moving loot to station. 
+28/11/2009 00:49:16 - Selecting random asteroid field (7). 
+28/11/2009 00:50:09 - Undocking completed. 
+28/11/2009 00:50:10 - Zooming camera out 
+28/11/2009 00:50:13 - Warping to asteroid belt 7. 
+28/11/2009 00:51:34 - Warping complete. 
+28/11/2009 00:51:38 - Making new jet can. 
+28/11/2009 01:22:45 - Jet can is over 59 percent full. 
+28/11/2009 01:22:58 - Returning to station. 
+28/11/2009 01:24:07 - Docking completed. 
+28/11/2009 01:24:12 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 01:24:13 - Repairing Retriever. 
+28/11/2009 01:25:41 - Undocking completed. 
+28/11/2009 01:25:43 - Zooming camera out 
+28/11/2009 01:25:46 - Warping to asteroid belt 7. 
+28/11/2009 01:26:56 - Warping complete. 
+28/11/2009 01:27:10 - Approaching jet can. 
+28/11/2009 01:27:56 - Jet can looting completed. 
+28/11/2009 01:28:01 - Returning to station. 
+28/11/2009 01:29:00 - Docking completed. 
+28/11/2009 01:29:06 - Moving loot to station. 
+28/11/2009 01:29:46 - Selecting random asteroid field (6). 
+28/11/2009 01:30:38 - Undocking completed. 
+28/11/2009 01:30:40 - Zooming camera out 
+28/11/2009 01:30:43 - Warping to asteroid belt 6. 
+28/11/2009 01:32:04 - Warping complete. 
+28/11/2009 01:32:08 - Making new jet can. 
+28/11/2009 02:04:11 - Jet can is over 59 percent full. 
+28/11/2009 02:04:24 - Returning to station. 
+28/11/2009 02:05:53 - Docking completed. 
+28/11/2009 02:05:58 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 02:05:59 - Repairing Retriever. 
+28/11/2009 02:07:27 - Undocking completed. 
+28/11/2009 02:07:29 - Zooming camera out 
+28/11/2009 02:07:32 - Warping to asteroid belt 6. 
+28/11/2009 02:08:42 - Warping complete. 
+28/11/2009 02:08:56 - Approaching jet can. 
+28/11/2009 02:09:18 - Jet can looting completed. 
+28/11/2009 02:09:23 - Returning to station. 
+28/11/2009 02:10:22 - Docking completed. 
+28/11/2009 02:10:30 - Moving loot to station. 
+28/11/2009 02:11:10 - Selecting random asteroid field (9). 
+28/11/2009 02:12:03 - Undocking completed. 
+28/11/2009 02:12:04 - Zooming camera out 
+28/11/2009 02:12:07 - Warping to asteroid belt 9. 
+28/11/2009 02:13:28 - Warping complete. 
+28/11/2009 02:13:32 - Making new jet can. 
+28/11/2009 02:47:20 - Jet can is over 59 percent full. 
+28/11/2009 02:47:33 - Returning to station. 
+28/11/2009 02:49:02 - Docking completed. 
+28/11/2009 02:49:08 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 02:49:09 - Repairing Retriever. 
+28/11/2009 02:50:37 - Undocking completed. 
+28/11/2009 02:50:38 - Zooming camera out 
+28/11/2009 02:50:41 - Warping to asteroid belt 9. 
+28/11/2009 02:51:52 - Warping complete. 
+28/11/2009 02:52:06 - Approaching jet can. 
+28/11/2009 02:52:27 - Jet can looting completed. 
+28/11/2009 02:52:32 - Returning to station. 
+28/11/2009 02:53:36 - Docking completed. 
+28/11/2009 02:53:42 - Moving loot to station. 
+28/11/2009 02:54:22 - Selecting random asteroid field (2). 
+28/11/2009 02:55:15 - Undocking completed. 
+28/11/2009 02:55:16 - Zooming camera out 
+28/11/2009 02:55:19 - Warping to asteroid belt 2. 
+28/11/2009 02:56:40 - Warping complete. 
+28/11/2009 02:56:44 - Making new jet can. 
+28/11/2009 03:33:06 - Jet can is over 59 percent full. 
+28/11/2009 03:33:19 - Returning to station. 
+28/11/2009 03:34:23 - Docking completed. 
+28/11/2009 03:34:28 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 03:34:30 - Repairing Retriever. 
+28/11/2009 03:35:58 - Undocking completed. 
+28/11/2009 03:35:59 - Zooming camera out 
+28/11/2009 03:36:02 - Warping to asteroid belt 2. 
+28/11/2009 03:37:12 - Warping complete. 
+28/11/2009 03:37:27 - Approaching jet can. 
+28/11/2009 03:37:48 - Jet can looting completed. 
+28/11/2009 03:37:54 - Returning to station. 
+28/11/2009 03:38:58 - Docking completed. 
+28/11/2009 03:39:03 - Moving loot to station. 
+28/11/2009 03:39:43 - Selecting random asteroid field (8). 
+28/11/2009 03:40:36 - Undocking completed. 
+28/11/2009 03:40:37 - Zooming camera out 
+28/11/2009 03:40:41 - Warping to asteroid belt 8. 
+28/11/2009 03:42:01 - Warping complete. 
+28/11/2009 03:42:05 - Making new jet can. 
+28/11/2009 04:14:56 - Jet can is over 59 percent full. 
+28/11/2009 04:15:09 - Returning to station. 
+28/11/2009 04:16:13 - Docking completed. 
+28/11/2009 04:16:18 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 04:16:19 - Repairing Retriever. 
+28/11/2009 04:17:47 - Undocking completed. 
+28/11/2009 04:17:49 - Zooming camera out 
+28/11/2009 04:17:52 - Warping to asteroid belt 8. 
+28/11/2009 04:19:02 - Warping complete. 
+28/11/2009 04:19:17 - Approaching jet can. 
+28/11/2009 04:19:38 - Jet can looting completed. 
+28/11/2009 04:19:43 - Returning to station. 
+28/11/2009 04:20:48 - Docking completed. 
+28/11/2009 04:20:55 - Moving loot to station. 
+28/11/2009 04:21:35 - Selecting random asteroid field (4). 
+28/11/2009 04:22:31 - Undocking completed. 
+28/11/2009 04:22:33 - Zooming camera out 
+28/11/2009 04:22:36 - Warping to asteroid belt 4. 
+28/11/2009 04:23:57 - Warping complete. 
+28/11/2009 04:24:00 - Making new jet can. 
+28/11/2009 04:55:43 - Jet can is over 59 percent full. 
+28/11/2009 04:55:56 - Returning to station. 
+28/11/2009 04:57:14 - Docking completed. 
+28/11/2009 04:57:20 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 04:57:21 - Repairing Retriever. 
+28/11/2009 04:58:49 - Undocking completed. 
+28/11/2009 04:58:50 - Zooming camera out 
+28/11/2009 04:58:54 - Warping to asteroid belt 4. 
+28/11/2009 05:00:04 - Warping complete. 
+28/11/2009 05:00:18 - Approaching jet can. 
+28/11/2009 05:00:40 - Jet can looting completed. 
+28/11/2009 05:00:45 - Returning to station. 
+28/11/2009 05:01:54 - Docking completed. 
+28/11/2009 05:02:00 - Moving loot to station. 
+28/11/2009 05:02:40 - Selecting random asteroid field (8). 
+28/11/2009 05:03:32 - Undocking completed. 
+28/11/2009 05:03:34 - Zooming camera out 
+28/11/2009 05:03:37 - Warping to asteroid belt 8. 
+28/11/2009 05:04:57 - Warping complete. 
+28/11/2009 05:05:01 - Making new jet can. 
+28/11/2009 05:35:36 - Jet can is over 59 percent full. 
+28/11/2009 05:35:49 - Returning to station. 
+28/11/2009 05:37:18 - Docking completed. 
+28/11/2009 05:37:23 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 05:37:25 - Repairing Retriever. 
+28/11/2009 05:38:36 - Undocking completed. 
+28/11/2009 05:38:38 - Zooming camera out 
+28/11/2009 05:38:41 - Warping to asteroid belt 8. 
+28/11/2009 05:39:51 - Warping complete. 
+28/11/2009 05:40:06 - Approaching jet can. 
+28/11/2009 05:40:31 - Jet can looting completed. 
+28/11/2009 05:40:36 - Returning to station. 
+28/11/2009 05:42:05 - Docking completed. 
+28/11/2009 05:42:11 - Moving loot to station. 
+28/11/2009 05:42:51 - Selecting random asteroid field (5). 
+28/11/2009 05:43:27 - Undocking completed. 
+28/11/2009 05:43:29 - Zooming camera out 
+28/11/2009 05:43:32 - Warping to asteroid belt 5. 
+28/11/2009 05:44:53 - Warping complete. 
+28/11/2009 05:44:56 - Making new jet can. 
+28/11/2009 06:20:40 - Jet can is over 59 percent full. 
+28/11/2009 06:20:53 - Returning to station. 
+28/11/2009 06:22:32 - Docking completed. 
+28/11/2009 06:22:37 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 06:22:39 - Repairing Retriever. 
+28/11/2009 06:24:07 - Undocking completed. 
+28/11/2009 06:24:08 - Zooming camera out 
+28/11/2009 06:24:11 - Warping to asteroid belt 5. 
+28/11/2009 06:25:32 - Warping complete. 
+28/11/2009 06:25:46 - Approaching jet can. 
+28/11/2009 06:26:08 - Jet can looting completed. 
+28/11/2009 06:26:13 - Returning to station. 
+28/11/2009 06:27:17 - Docking completed. 
+28/11/2009 06:27:24 - Moving loot to station. 
+28/11/2009 06:28:04 - Selecting random asteroid field (3). 
+28/11/2009 06:28:57 - Undocking completed. 
+28/11/2009 06:28:58 - Zooming camera out 
+28/11/2009 06:29:02 - Warping to asteroid belt 3. 
+28/11/2009 06:30:22 - Warping complete. 
+28/11/2009 06:30:26 - Making new jet can. 
+28/11/2009 07:06:34 - Jet can is over 59 percent full. 
+28/11/2009 07:06:47 - Returning to station. 
+28/11/2009 07:07:50 - Docking completed. 
+28/11/2009 07:07:56 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 07:07:57 - Repairing Retriever. 
+28/11/2009 07:09:25 - Undocking completed. 
+28/11/2009 07:09:26 - Zooming camera out 
+28/11/2009 07:09:29 - Warping to asteroid belt 3. 
+28/11/2009 07:10:40 - Warping complete. 
+28/11/2009 07:10:54 - Approaching jet can. 
+28/11/2009 07:11:43 - Jet can looting completed. 
+28/11/2009 07:11:49 - Returning to station. 
+28/11/2009 07:12:58 - Docking completed. 
+28/11/2009 07:13:03 - Moving loot to station. 
+28/11/2009 07:13:43 - Selecting random asteroid field (2). 
+28/11/2009 07:14:36 - Undocking completed. 
+28/11/2009 07:14:37 - Zooming camera out 
+28/11/2009 07:14:40 - Warping to asteroid belt 2. 
+28/11/2009 07:16:01 - Warping complete. 
+28/11/2009 07:16:05 - Making new jet can. 
+28/11/2009 07:49:34 - Jet can is over 59 percent full. 
+28/11/2009 07:49:47 - Returning to station. 
+28/11/2009 07:51:16 - Docking completed. 
+28/11/2009 07:51:21 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 07:51:23 - Repairing Retriever. 
+28/11/2009 07:52:51 - Undocking completed. 
+28/11/2009 07:52:52 - Zooming camera out 
+28/11/2009 07:52:55 - Warping to asteroid belt 2. 
+28/11/2009 07:54:06 - Warping complete. 
+28/11/2009 07:54:20 - Approaching jet can. 
+28/11/2009 07:54:42 - Jet can looting completed. 
+28/11/2009 07:54:47 - Returning to station. 
+28/11/2009 07:55:51 - Docking completed. 
+28/11/2009 07:55:56 - Moving loot to station. 
+28/11/2009 07:56:36 - Selecting random asteroid field (1). 
+28/11/2009 07:57:29 - Undocking completed. 
+28/11/2009 07:57:30 - Zooming camera out 
+28/11/2009 07:57:33 - Warping to asteroid belt 1. 
+28/11/2009 07:58:13 - Warping complete. 
+28/11/2009 07:58:17 - Making new jet can. 
+28/11/2009 08:32:05 - Jet can is over 59 percent full. 
+28/11/2009 08:32:18 - Returning to station. 
+28/11/2009 08:33:52 - Docking completed. 
+28/11/2009 08:33:57 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 08:33:59 - Repairing Retriever. 
+28/11/2009 08:35:28 - Undocking completed. 
+28/11/2009 08:35:30 - Zooming camera out 
+28/11/2009 08:35:33 - Warping to asteroid belt 1. 
+28/11/2009 08:36:12 - Warping complete. 
+28/11/2009 08:36:26 - Approaching jet can. 
+28/11/2009 08:37:12 - Jet can looting completed. 
+28/11/2009 08:37:17 - Returning to station. 
+28/11/2009 08:38:16 - Docking completed. 
+28/11/2009 08:38:21 - Moving loot to station. 
+28/11/2009 08:39:01 - Selecting random asteroid field (1). 
+28/11/2009 08:39:54 - Undocking completed. 
+28/11/2009 08:39:56 - Zooming camera out 
+28/11/2009 08:39:59 - Warping to asteroid belt 1. 
+28/11/2009 08:40:38 - Warping complete. 
+28/11/2009 08:40:42 - Making new jet can. 
+28/11/2009 09:12:06 - Jet can is over 59 percent full. 
+28/11/2009 09:12:19 - Returning to station. 
+28/11/2009 09:13:23 - Docking completed. 
+28/11/2009 09:13:28 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 09:13:30 - Repairing Retriever. 
+28/11/2009 09:15:03 - Undocking completed. 
+28/11/2009 09:15:05 - Zooming camera out 
+28/11/2009 09:15:08 - Warping to asteroid belt 1. 
+28/11/2009 09:15:47 - Warping complete. 
+28/11/2009 09:16:01 - Approaching jet can. 
+28/11/2009 09:16:46 - Jet can looting completed. 
+28/11/2009 09:16:52 - Returning to station. 
+28/11/2009 09:17:51 - Docking completed. 
+28/11/2009 09:17:56 - Moving loot to station. 
+28/11/2009 09:18:11 - ERROR: Can't move loot to station. Exiting! 
+28/11/2009 13:02:43 - Undocking completed. 
+28/11/2009 13:02:45 - Zooming camera out 
+28/11/2009 13:02:48 - Warping to asteroid belt 8. 
+28/11/2009 13:05:42 - Warping complete. 
+28/11/2009 13:05:46 - Making new jet can. 
+28/11/2009 13:06:54 - Mining session started. Assuming system 8. 
+28/11/2009 13:36:51 - Jet can is over 59 percent full. 
+28/11/2009 13:37:04 - Returning to station. 
+28/11/2009 13:38:27 - Docking completed. 
+28/11/2009 13:38:33 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 13:38:34 - Repairing Retriever. 
+28/11/2009 13:40:06 - Undocking completed. 
+28/11/2009 13:40:08 - Zooming camera out 
+28/11/2009 13:40:11 - Warping to asteroid belt 8. 
+28/11/2009 13:41:21 - Warping complete. 
+28/11/2009 13:41:36 - Approaching jet can. 
+28/11/2009 13:42:09 - Jet can looting completed. 
+28/11/2009 13:42:15 - Returning to station. 
+28/11/2009 13:43:28 - Docking completed. 
+28/11/2009 13:43:34 - Moving loot to station. 
+28/11/2009 13:44:14 - Selecting random asteroid field (7). 
+28/11/2009 13:45:07 - Undocking completed. 
+28/11/2009 13:45:08 - Zooming camera out 
+28/11/2009 13:45:11 - Warping to asteroid belt 7. 
+28/11/2009 13:46:32 - Warping complete. 
+28/11/2009 13:46:36 - Making new jet can. 
+28/11/2009 14:17:40 - Jet can is over 59 percent full. 
+28/11/2009 14:17:53 - Returning to station. 
+28/11/2009 14:18:57 - Docking completed. 
+28/11/2009 14:19:02 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 14:19:04 - Repairing Retriever. 
+28/11/2009 14:20:32 - Undocking completed. 
+28/11/2009 14:20:33 - Zooming camera out 
+28/11/2009 14:20:36 - Warping to asteroid belt 7. 
+28/11/2009 14:21:57 - Warping complete. 
+28/11/2009 14:22:11 - Approaching jet can. 
+28/11/2009 14:22:33 - Jet can looting completed. 
+28/11/2009 14:22:38 - Returning to station. 
+28/11/2009 14:24:02 - Docking completed. 
+28/11/2009 14:24:07 - Moving loot to station. 
+28/11/2009 14:24:47 - Selecting random asteroid field (6). 
+28/11/2009 14:25:20 - Undocking completed. 
+28/11/2009 14:25:21 - Zooming camera out 
+28/11/2009 14:25:24 - Warping to asteroid belt 6. 
+28/11/2009 14:26:45 - Warping complete. 
+28/11/2009 14:26:49 - Making new jet can. 
+28/11/2009 15:00:00 - Jet can is over 59 percent full. 
+28/11/2009 15:00:13 - Returning to station. 
+28/11/2009 15:01:12 - Docking completed. 
+28/11/2009 15:01:18 - Waiting for ship cooldown to finish (30 sec). 
+28/11/2009 15:01:19 - Repairing Retriever. 
+28/11/2009 15:03:03 - Undocking completed. 
+28/11/2009 15:03:05 - Zooming camera out 
+28/11/2009 15:03:08 - Warping to asteroid belt 6. 
+28/11/2009 15:04:18 - Warping complete. 
+28/11/2009 15:04:32 - Approaching jet can. 
+28/11/2009 15:05:14 - Jet can looting completed. 
+28/11/2009 15:05:19 - Returning to station. 
+28/11/2009 15:06:23 - Docking completed. 
+28/11/2009 15:06:28 - Moving loot to station. 
+28/11/2009 15:07:08 - Selecting random asteroid field (9). 
+28/11/2009 15:08:01 - Undocking completed. 
+28/11/2009 15:08:03 - Zooming camera out 
+28/11/2009 15:08:06 - Warping to asteroid belt 9. 
+28/11/2009 15:09:26 - Warping complete. 
+28/11/2009 15:09:30 - Making new jet can. 
+28/11/2009 20:20:10 - Undocking completed. 
+28/11/2009 20:20:12 - Zooming camera out 
+28/11/2009 20:20:15 - Warping to asteroid belt 8. 
+29/11/2009 03:13:57 - Undocking completed. 
+29/11/2009 03:13:58 - Zooming camera out 
+29/11/2009 03:14:02 - Warping to asteroid belt 8. 
+29/11/2009 03:15:23 - Warping complete. 
+29/11/2009 03:15:27 - Making new jet can. 
+29/11/2009 03:16:35 - Mining session started. Assuming system 8. 
+29/11/2009 03:48:34 - Jet can is over 59 percent full. 
+29/11/2009 03:48:47 - Returning to station. 
+29/11/2009 03:50:11 - Docking completed. 
+29/11/2009 03:50:17 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 03:50:18 - Repairing Retriever. 
+29/11/2009 03:52:02 - Undocking completed. 
+29/11/2009 03:52:03 - Zooming camera out 
+29/11/2009 03:52:07 - Warping to asteroid belt 8. 
+29/11/2009 03:53:17 - Warping complete. 
+29/11/2009 03:53:31 - Approaching jet can. 
+29/11/2009 03:53:53 - Jet can looting completed. 
+29/11/2009 03:53:58 - Returning to station. 
+29/11/2009 03:55:02 - Docking completed. 
+29/11/2009 03:55:08 - Moving loot to station. 
+29/11/2009 03:55:47 - Selecting random asteroid field (6). 
+29/11/2009 03:56:41 - Undocking completed. 
+29/11/2009 03:56:42 - Zooming camera out 
+29/11/2009 03:56:45 - Warping to asteroid belt 6. 
+29/11/2009 03:58:06 - Warping complete. 
+29/11/2009 03:58:10 - Making new jet can. 
+29/11/2009 04:29:33 - Jet can is over 59 percent full. 
+29/11/2009 04:29:46 - Returning to station. 
+29/11/2009 04:31:10 - Docking completed. 
+29/11/2009 04:31:16 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 04:31:17 - Repairing Retriever. 
+29/11/2009 04:33:05 - Undocking completed. 
+29/11/2009 04:33:06 - Zooming camera out 
+29/11/2009 04:33:10 - Warping to asteroid belt 6. 
+29/11/2009 04:34:20 - Warping complete. 
+29/11/2009 04:34:34 - Approaching jet can. 
+29/11/2009 04:35:16 - Jet can looting completed. 
+29/11/2009 04:35:21 - Returning to station. 
+29/11/2009 04:36:20 - Docking completed. 
+29/11/2009 04:36:25 - Moving loot to station. 
+29/11/2009 04:37:05 - Selecting random asteroid field (6). 
+29/11/2009 04:37:58 - Undocking completed. 
+29/11/2009 04:37:59 - Zooming camera out 
+29/11/2009 04:38:02 - Warping to asteroid belt 6. 
+29/11/2009 04:39:22 - Warping complete. 
+29/11/2009 04:39:26 - Making new jet can. 
+29/11/2009 05:12:42 - Jet can is over 59 percent full. 
+29/11/2009 05:12:55 - Returning to station. 
+29/11/2009 05:13:59 - Docking completed. 
+29/11/2009 05:14:04 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 05:14:06 - Repairing Retriever. 
+29/11/2009 05:15:52 - Undocking completed. 
+29/11/2009 05:15:53 - Zooming camera out 
+29/11/2009 05:15:57 - Warping to asteroid belt 6. 
+29/11/2009 05:17:07 - Warping complete. 
+29/11/2009 05:17:21 - Approaching jet can. 
+29/11/2009 05:17:43 - Jet can looting completed. 
+29/11/2009 05:17:48 - Returning to station. 
+29/11/2009 05:18:47 - Docking completed. 
+29/11/2009 05:18:52 - Moving loot to station. 
+29/11/2009 05:19:32 - Selecting random asteroid field (6). 
+29/11/2009 05:20:25 - Undocking completed. 
+29/11/2009 05:20:27 - Zooming camera out 
+29/11/2009 05:20:30 - Warping to asteroid belt 6. 
+29/11/2009 05:21:51 - Warping complete. 
+29/11/2009 05:21:55 - Making new jet can. 
+29/11/2009 05:54:53 - Jet can is over 59 percent full. 
+29/11/2009 05:55:06 - Returning to station. 
+29/11/2009 05:56:20 - Docking completed. 
+29/11/2009 05:56:26 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 05:56:27 - Repairing Retriever. 
+29/11/2009 05:58:13 - Undocking completed. 
+29/11/2009 05:58:14 - Zooming camera out 
+29/11/2009 05:58:18 - Warping to asteroid belt 6. 
+29/11/2009 05:59:28 - Warping complete. 
+29/11/2009 05:59:42 - Approaching jet can. 
+29/11/2009 06:00:04 - Jet can looting completed. 
+29/11/2009 06:00:09 - Returning to station. 
+29/11/2009 06:01:08 - Docking completed. 
+29/11/2009 06:01:14 - Moving loot to station. 
+29/11/2009 06:01:53 - Selecting random asteroid field (8). 
+29/11/2009 06:02:46 - Undocking completed. 
+29/11/2009 06:02:48 - Zooming camera out 
+29/11/2009 06:02:51 - Warping to asteroid belt 8. 
+29/11/2009 06:04:11 - Warping complete. 
+29/11/2009 06:04:15 - Making new jet can. 
+29/11/2009 06:37:22 - Jet can is over 59 percent full. 
+29/11/2009 06:37:35 - Returning to station. 
+29/11/2009 06:38:39 - Docking completed. 
+29/11/2009 06:38:44 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 06:38:46 - Repairing Retriever. 
+29/11/2009 06:40:12 - Undocking completed. 
+29/11/2009 06:40:13 - Zooming camera out 
+29/11/2009 06:40:16 - Warping to asteroid belt 8. 
+29/11/2009 06:41:37 - Warping complete. 
+29/11/2009 06:41:51 - Approaching jet can. 
+29/11/2009 06:42:13 - Jet can looting completed. 
+29/11/2009 06:42:18 - Returning to station. 
+29/11/2009 06:43:17 - Docking completed. 
+29/11/2009 06:43:22 - Moving loot to station. 
+29/11/2009 06:44:02 - Selecting random asteroid field (4). 
+29/11/2009 06:44:35 - Undocking completed. 
+29/11/2009 06:44:37 - Zooming camera out 
+29/11/2009 06:44:40 - Warping to asteroid belt 4. 
+29/11/2009 06:45:50 - Warping complete. 
+29/11/2009 06:45:54 - Making new jet can. 
+29/11/2009 07:19:05 - Jet can is over 59 percent full. 
+29/11/2009 07:19:18 - Returning to station. 
+29/11/2009 07:20:37 - Docking completed. 
+29/11/2009 07:20:42 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 07:20:44 - Repairing Retriever. 
+29/11/2009 07:22:30 - Undocking completed. 
+29/11/2009 07:22:31 - Zooming camera out 
+29/11/2009 07:22:34 - Warping to asteroid belt 4. 
+29/11/2009 07:23:44 - Warping complete. 
+29/11/2009 07:23:58 - Approaching jet can. 
+29/11/2009 07:24:36 - Jet can looting completed. 
+29/11/2009 07:24:41 - Returning to station. 
+29/11/2009 07:25:50 - Docking completed. 
+29/11/2009 07:25:57 - Moving loot to station. 
+29/11/2009 07:26:37 - Selecting random asteroid field (6). 
+29/11/2009 07:27:30 - Undocking completed. 
+29/11/2009 07:27:31 - Zooming camera out 
+29/11/2009 07:27:34 - Warping to asteroid belt 6. 
+29/11/2009 07:28:55 - Warping complete. 
+29/11/2009 07:28:59 - Making new jet can. 
+29/11/2009 08:02:25 - Jet can is over 59 percent full. 
+29/11/2009 08:02:38 - Returning to station. 
+29/11/2009 08:03:42 - Docking completed. 
+29/11/2009 08:03:48 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 08:03:49 - Repairing Retriever. 
+29/11/2009 08:05:35 - Undocking completed. 
+29/11/2009 08:05:36 - Zooming camera out 
+29/11/2009 08:05:40 - Warping to asteroid belt 6. 
+29/11/2009 08:06:50 - Warping complete. 
+29/11/2009 08:07:04 - Approaching jet can. 
+29/11/2009 08:07:37 - Jet can looting completed. 
+29/11/2009 08:07:43 - Returning to station. 
+29/11/2009 08:08:52 - Docking completed. 
+29/11/2009 08:09:00 - Moving loot to station. 
+29/11/2009 08:09:40 - Selecting random asteroid field (1). 
+29/11/2009 08:10:32 - Undocking completed. 
+29/11/2009 08:10:34 - Zooming camera out 
+29/11/2009 08:10:37 - Warping to asteroid belt 1. 
+29/11/2009 08:11:27 - Warping complete. 
+29/11/2009 08:11:31 - Making new jet can. 
+29/11/2009 08:43:58 - Jet can is over 59 percent full. 
+29/11/2009 08:44:10 - Returning to station. 
+29/11/2009 08:45:09 - Docking completed. 
+29/11/2009 08:45:16 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 08:45:18 - Repairing Retriever. 
+29/11/2009 08:47:04 - Undocking completed. 
+29/11/2009 08:47:05 - Zooming camera out 
+29/11/2009 08:47:08 - Warping to asteroid belt 1. 
+29/11/2009 08:47:48 - Warping complete. 
+29/11/2009 08:48:02 - Approaching jet can. 
+29/11/2009 08:48:24 - Jet can looting completed. 
+29/11/2009 08:48:29 - Returning to station. 
+29/11/2009 08:49:28 - Docking completed. 
+29/11/2009 08:49:34 - Moving loot to station. 
+29/11/2009 08:50:14 - Selecting random asteroid field (2). 
+29/11/2009 08:51:07 - Undocking completed. 
+29/11/2009 08:51:08 - Zooming camera out 
+29/11/2009 08:51:12 - Warping to asteroid belt 2. 
+29/11/2009 08:52:32 - Warping complete. 
+29/11/2009 08:52:36 - Making new jet can. 
+29/11/2009 09:25:44 - Jet can is over 59 percent full. 
+29/11/2009 09:25:57 - Returning to station. 
+29/11/2009 09:27:00 - Docking completed. 
+29/11/2009 09:27:06 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 09:27:07 - Repairing Retriever. 
+29/11/2009 09:28:53 - Undocking completed. 
+29/11/2009 09:28:55 - Zooming camera out 
+29/11/2009 09:28:58 - Warping to asteroid belt 2. 
+29/11/2009 09:30:08 - Warping complete. 
+29/11/2009 09:30:22 - Approaching jet can. 
+29/11/2009 09:30:44 - Jet can looting completed. 
+29/11/2009 09:30:49 - Returning to station. 
+29/11/2009 09:31:58 - Docking completed. 
+29/11/2009 09:32:03 - Moving loot to station. 
+29/11/2009 09:32:43 - Selecting random asteroid field (4). 
+29/11/2009 09:33:36 - Undocking completed. 
+29/11/2009 09:33:38 - Zooming camera out 
+29/11/2009 09:33:41 - Warping to asteroid belt 4. 
+29/11/2009 09:35:01 - Warping complete. 
+29/11/2009 09:35:05 - Making new jet can. 
+29/11/2009 10:06:28 - Jet can is over 59 percent full. 
+29/11/2009 10:06:41 - Returning to station. 
+29/11/2009 10:07:40 - Docking completed. 
+29/11/2009 10:07:47 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 10:07:48 - Repairing Retriever. 
+29/11/2009 10:09:20 - Undocking completed. 
+29/11/2009 10:09:22 - Zooming camera out 
+29/11/2009 10:09:25 - Warping to asteroid belt 4. 
+29/11/2009 10:10:35 - Warping complete. 
+29/11/2009 10:10:50 - Approaching jet can. 
+29/11/2009 10:11:35 - Jet can looting completed. 
+29/11/2009 10:11:41 - Returning to station. 
+29/11/2009 10:12:45 - Docking completed. 
+29/11/2009 10:12:50 - Moving loot to station. 
+29/11/2009 10:13:30 - Selecting random asteroid field (1). 
+29/11/2009 10:14:23 - Undocking completed. 
+29/11/2009 10:14:24 - Zooming camera out 
+29/11/2009 10:14:27 - Warping to asteroid belt 1. 
+29/11/2009 10:15:17 - Warping complete. 
+29/11/2009 10:15:21 - Making new jet can. 
+29/11/2009 10:48:31 - Jet can is over 59 percent full. 
+29/11/2009 10:48:44 - Returning to station. 
+29/11/2009 10:50:18 - Docking completed. 
+29/11/2009 10:50:23 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 10:50:25 - Repairing Retriever. 
+29/11/2009 10:51:52 - Undocking completed. 
+29/11/2009 10:51:53 - Zooming camera out 
+29/11/2009 10:51:57 - Warping to asteroid belt 1. 
+29/11/2009 10:52:46 - Warping complete. 
+29/11/2009 10:53:00 - Approaching jet can. 
+29/11/2009 10:53:42 - Jet can looting completed. 
+29/11/2009 10:53:47 - Returning to station. 
+29/11/2009 10:54:46 - Docking completed. 
+29/11/2009 10:54:52 - Moving loot to station. 
+29/11/2009 10:55:32 - Selecting random asteroid field (2). 
+29/11/2009 10:56:25 - Undocking completed. 
+29/11/2009 10:56:26 - Zooming camera out 
+29/11/2009 10:56:29 - Warping to asteroid belt 2. 
+29/11/2009 10:57:50 - Warping complete. 
+29/11/2009 10:57:54 - Making new jet can. 
+29/11/2009 11:31:19 - Jet can is over 59 percent full. 
+29/11/2009 11:31:32 - Returning to station. 
+29/11/2009 11:32:36 - Docking completed. 
+29/11/2009 11:32:41 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 11:32:42 - Repairing Retriever. 
+29/11/2009 11:33:50 - Undocking completed. 
+29/11/2009 11:33:51 - Zooming camera out 
+29/11/2009 11:33:54 - Warping to asteroid belt 2. 
+29/11/2009 11:35:15 - Warping complete. 
+29/11/2009 11:35:29 - Approaching jet can. 
+29/11/2009 11:35:51 - Jet can looting completed. 
+29/11/2009 11:35:56 - Returning to station. 
+29/11/2009 11:37:01 - Docking completed. 
+29/11/2009 11:37:06 - Moving loot to station. 
+29/11/2009 11:37:46 - Selecting random asteroid field (6). 
+29/11/2009 11:38:18 - Undocking completed. 
+29/11/2009 11:38:20 - Zooming camera out 
+29/11/2009 11:38:23 - Warping to asteroid belt 6. 
+29/11/2009 11:39:43 - Warping complete. 
+29/11/2009 11:39:48 - Making new jet can. 
+29/11/2009 12:00:10 - EVE window not active. Exiting AutoKeyboard. 
+29/11/2009 14:10:42 - Undocking completed. 
+29/11/2009 14:10:43 - Zooming camera out 
+29/11/2009 14:10:46 - Warping to asteroid belt 8. 
+29/11/2009 14:12:07 - Warping complete. 
+29/11/2009 14:12:11 - Making new jet can. 
+29/11/2009 14:13:40 - Mining session started. Assuming system 8. 
+29/11/2009 14:45:08 - Jet can is over 59 percent full. 
+29/11/2009 14:45:21 - Returning to station. 
+29/11/2009 14:46:35 - Docking completed. 
+29/11/2009 14:46:40 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 14:46:42 - Repairing Retriever. 
+29/11/2009 14:48:14 - Undocking completed. 
+29/11/2009 14:48:15 - Zooming camera out 
+29/11/2009 14:48:18 - Warping to asteroid belt 8. 
+29/11/2009 14:49:28 - Warping complete. 
+29/11/2009 14:49:43 - Approaching jet can. 
+29/11/2009 14:50:04 - Jet can looting completed. 
+29/11/2009 14:50:10 - Returning to station. 
+29/11/2009 14:51:09 - Docking completed. 
+29/11/2009 14:51:14 - Moving loot to station. 
+29/11/2009 14:51:54 - Selecting random asteroid field (4). 
+29/11/2009 14:52:47 - Undocking completed. 
+29/11/2009 14:52:48 - Zooming camera out 
+29/11/2009 14:52:52 - Warping to asteroid belt 4. 
+29/11/2009 14:54:12 - Warping complete. 
+29/11/2009 14:54:17 - Making new jet can. 
+29/11/2009 15:27:16 - Jet can is over 59 percent full. 
+29/11/2009 15:27:29 - Returning to station. 
+29/11/2009 15:28:53 - Docking completed. 
+29/11/2009 15:29:00 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 15:29:01 - Repairing Retriever. 
+29/11/2009 15:30:29 - Undocking completed. 
+29/11/2009 15:30:30 - Zooming camera out 
+29/11/2009 15:30:34 - Warping to asteroid belt 4. 
+29/11/2009 15:31:44 - Warping complete. 
+29/11/2009 15:31:58 - Approaching jet can. 
+29/11/2009 15:32:19 - Jet can looting completed. 
+29/11/2009 15:32:25 - Returning to station. 
+29/11/2009 15:33:29 - Docking completed. 
+29/11/2009 15:33:34 - Moving loot to station. 
+29/11/2009 15:34:14 - Selecting random asteroid field (7). 
+29/11/2009 15:35:07 - Undocking completed. 
+29/11/2009 15:35:08 - Zooming camera out 
+29/11/2009 15:35:12 - Warping to asteroid belt 7. 
+29/11/2009 15:36:32 - Warping complete. 
+29/11/2009 15:36:36 - Making new jet can. 
+29/11/2009 16:07:59 - Jet can is over 59 percent full. 
+29/11/2009 16:08:12 - Returning to station. 
+29/11/2009 16:09:16 - Docking completed. 
+29/11/2009 16:09:21 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 16:09:23 - Repairing Retriever. 
+29/11/2009 16:10:51 - Undocking completed. 
+29/11/2009 16:10:52 - Zooming camera out 
+29/11/2009 16:10:55 - Warping to asteroid belt 7. 
+29/11/2009 16:12:06 - Warping complete. 
+29/11/2009 16:12:20 - Approaching jet can. 
+29/11/2009 16:12:41 - Jet can looting completed. 
+29/11/2009 16:12:47 - Returning to station. 
+29/11/2009 16:14:01 - Docking completed. 
+29/11/2009 16:14:06 - Moving loot to station. 
+29/11/2009 16:14:46 - Selecting random asteroid field (4). 
+29/11/2009 16:15:39 - Undocking completed. 
+29/11/2009 16:15:41 - Zooming camera out 
+29/11/2009 16:15:44 - Warping to asteroid belt 4. 
+29/11/2009 16:17:04 - Warping complete. 
+29/11/2009 16:17:08 - Making new jet can. 
+29/11/2009 16:50:11 - Jet can is over 59 percent full. 
+29/11/2009 16:50:24 - Returning to station. 
+29/11/2009 16:51:43 - Docking completed. 
+29/11/2009 16:51:48 - Waiting for ship cooldown to finish (30 sec). 
+29/11/2009 16:51:50 - Repairing Retriever. 
+29/11/2009 16:53:17 - Undocking completed. 
+29/11/2009 16:53:19 - Zooming camera out 
+29/11/2009 16:53:22 - Warping to asteroid belt 4. 
+29/11/2009 16:54:32 - Warping complete. 
+29/11/2009 16:54:46 - Approaching jet can. 
+29/11/2009 16:55:36 - Jet can looting completed. 
+29/11/2009 16:55:42 - Returning to station. 
+29/11/2009 16:59:10 - Docking completed. 
+29/11/2009 16:59:16 - Moving loot to station. 
+29/11/2009 16:59:55 - Selecting random asteroid field (3). 
+29/11/2009 17:00:48 - Undocking completed. 
+29/11/2009 17:00:50 - Zooming camera out 
+29/11/2009 17:00:53 - Warping to asteroid belt 3. 
+29/11/2009 17:02:14 - Warping complete. 
+29/11/2009 17:02:18 - Making new jet can. 
+04/12/2009 11:07:31 - Undocking completed. 
+04/12/2009 11:07:36 - Zooming camera out 
+04/12/2009 11:07:40 - Warping to asteroid belt 8. 
+04/12/2009 11:08:52 - Warping complete. 
+04/12/2009 11:08:56 - Making new jet can. 
+04/12/2009 11:10:24 - Mining session started. Assuming system 8. 
+04/12/2009 11:10:53 - EVE window not active. Exiting AutoKeyboard. 
+04/12/2009 13:02:45 - Undocking completed. 
+04/12/2009 13:02:46 - Zooming camera out 
+04/12/2009 13:02:49 - Warping to asteroid belt 8. 
+04/12/2009 13:03:25 - EVE window not active. Exiting AutoKeyboard. 

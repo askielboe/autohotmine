@@ -1,0 +1,665 @@
+test()
+{
+Global d
+	Log(2*d)
+}
+
+;-----------------------------FUNCTION------------------------------
+Log(string)
+{
+Global d
+FileAppend, %A_DD%/%A_MM%/%A_YYYY% %A_Hour%:%A_Min%:%A_Sec% - %string% `n, autolog.txt
+Sleep, d/10
+WinWait, C:\Documents and Settings\Gud\Desktop\ORE\autolog.txt - Notepad++, 
+IfWinNotActive, C:\Documents and Settings\Gud\Desktop\ORE\autolog.txt - Notepad++, , WinActivate, C:\Documents and Settings\Gud\Desktop\ORE\autolog.txt - Notepad++, 
+WinWaitActive, C:\Documents and Settings\Gud\Desktop\ORE\autolog.txt - Notepad++, 
+Sleep, d/10
+WinWait, EVE, 
+IfWinNotActive, EVE, , WinActivate, EVE, 
+WinWaitActive, EVE, 
+Sleep, d/10
+
+}
+;-----------------------------FUNCTION------------------------------
+LocWin(arg)
+{
+	ImageSearch, WItemx, WItemy, 0, 0, 1024, 790, images/icon_itemwindow.bmp
+	If !ErrorLevel
+	{
+		If (arg = 1)
+		{
+			WItemx := WItemx + 50
+			return WItemx
+		}
+		else if (arg = 2)
+		{
+			WItemy := WItemy + 87
+			return WItemy
+		}
+	}
+		
+	;ImageSearch, WShipx, WShipy, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+	;	If !ErrorLevel
+	;	{
+	;	If (arg = 1)
+	;	{
+	;		WShipx := WShipx + 50
+	;		return WShipx
+	;	}
+	;	else if (arg = 2)
+	;	{
+	;		WShipy := WShipy + 87
+	;		return WShipy
+	;	}
+	;}
+}
+;-----------------------------FUNCTION------------------------------
+RemoveExcessTargets()
+{
+	Global d
+	ImageSearch, Px, Py, 350, 40, 400, 110,  images/black.png
+	if ErrorLevel
+	{
+		MouseClick, left,  378,  74
+		Sleep, 1*d
+		MouseClick, left,  891,  98
+		Sleep, 2*d
+	}
+}
+
+;-----------------------------FUNCTION------------------------------
+ClearTargets()
+{
+	Global d
+	While, 1 {
+		IfWinNotActive, EVE
+		Goto, End
+
+		ImageSearch, Px, Py, 640, 40, 800, 100,  images/black.png
+		if ErrorLevel
+	   	{
+	    		MouseClick, left,  672,  77
+	    		Sleep, 1*d
+	    		MouseClick, left,  888,  97
+	    		Sleep, 2*d
+	  	 }
+		else
+	   	{
+			return
+	   	}
+	}
+}
+
+;-----------------------------FUNCTION------------------------------
+StartMining(n)
+{
+	Global d
+
+; Make sure we don't have any irritating pop-ups
+Send, {ENTER}
+
+; Select asteroids tab
+MouseClick, left,  857,  145
+Sleep, 1*d
+
+;Deselect all targets
+While, 1
+{
+	ImageSearch, Px, Py, 645, 48, 701, 103,  images/black.png
+	if ErrorLevel
+	{
+		MouseClick, left,  672,  75
+		Sleep, 1*d
+		MouseClick, left,  888,  98
+		Sleep, 1*d
+	}
+	else
+	{
+		break
+	}
+}
+	
+;Target asteroids
+i := 1
+While i <= n
+{
+	MouseClick, left,  828,  183  + (i-1)*20
+	Sleep, 1*d
+	MouseClick, left,  891,  98
+;	Sleep, 2*d
+;	MouseClick, left,  891,  98
+	Sleep, 1*d
+	i += 1
+}
+
+; Reactivate miners
+
+While A_Index <= n
+{
+	MouseClick, left,  672 - (A_Index-1)*97,  75
+	Sleep, 1*d
+	Send, {F%A_Index%}
+	Sleep, 2*d
+}
+
+}
+
+;-----------------------------FUNCTION------------------------------
+Can()
+{
+	Global d
+While, 1
+{
+	CheckEVE()
+	PixelSearch, Px, Py, 50, 670, 280, 750, C4C5C6, 10, Fast
+	if ErrorLevel
+	{
+		return
+	}
+	else
+	{
+
+	    	MouseClickDrag, left,  Px,  Py, 88,  529, 10
+		Sleep, 1*d
+	}
+}
+}
+;-----------------------------FUNCTION------------------------------
+CheckEVE()
+{
+	Global d
+		IfWinNotActive, EVE
+		{
+			Log("EVE window not active. Exiting AutoKeyboard.")
+			ExitApp
+		}
+}
+
+;-----------------------------FUNCTION------------------------------
+Dock()
+{
+	Global d
+Log("Returning to station.")
+; Dock to station
+MouseClick, right,  157,  72
+Sleep, 1*d
+MouseClick, left,  198,  132
+
+; Flying to station
+Sleep, 10000
+
+; Search for undock button (so we know that we are docked
+while, 1 
+{
+	CheckEVE()
+	PixelSearch, Px, Py, 5, 745, 45, 775,  0x3CCFFF, 10, Fast
+	if ErrorLevel {
+		Sleep, Round(2.5*d)
+	}
+	else {
+		Log("Docking completed.")
+		Sleep, 2*d
+		break ; we're docked
+	}
+}
+}
+;-----------------------------FUNCTION------------------------------
+UnDock()
+{
+	Global d
+MouseClick, left,  22,  761
+Sleep, 5000
+
+; Check when we're undocked
+while, 1
+{
+	CheckEVE()
+	ImageSearch, Px, Py, 5, 730, 100, 780, images/black.png
+	if ErrorLevel {
+		Sleep, Round(2.5*d) ; we're undocked (but wait a bit before warping)
+		Log("Undocking completed.")
+		Log("Zooming camera out")
+		MouseClick, left,  509,  90
+		Sleep, 0.5*d
+		Loop, 5
+		{
+			MouseClick, WU,,,100
+			Sleep, 100
+		}
+		break
+	}
+	else {
+		Sleep, 2*d ; wait for undocking to complete
+	}
+}
+}
+
+;-----------------------------FUNCTION------------------------------
+MakeCan()
+{
+	Global d
+
+Log("Making new jet can.")
+
+PixelSearch, Px, Py, 50, 670, 280, 750, C4C5C6, 10, Fast
+	if ErrorLevel
+	{
+		; Select asteroids tab
+		MouseClick, left,  857,  145
+		Sleep, 2*d
+
+		;Target asteroid1
+		MouseClick, left,  828,  183
+		Sleep, 2*d
+		MouseClick, left,  891,  98
+		Sleep, 2*d
+
+		; Start and stop miner
+		Send, {F1}
+		Sleep, 5000
+		Send, {F1}
+		Sleep, 1*d
+	}
+
+; Make new jetcan
+MouseClick, right,  88,  719
+Sleep, 2*d
+MouseClick, left,  130,  721
+Sleep, 2*d
+Send, {ENTER}
+Sleep, 1*d
+
+; Activate container overview
+MouseClick, left,  980,  144
+Sleep, 2*d
+
+;Select jet can
+MouseClick, left,  831,  185
+Sleep, 2*d
+
+; Approach container
+MouseClick, left,  789,  101
+Sleep, 2*d
+
+;Open jet can
+MouseClick, left,  838,  100
+Sleep, 2*d
+
+; Rename jet can
+MouseClick, right,  825,  184
+Sleep, 2*d
+MouseClick, left,  819,  286
+Sleep, 2*d
+Send, {SHIFTDOWN}c{SHIFTUP}argo{SPACE}{SHIFTDOWN}c{SHIFTUP}ontainer{ENTER}
+Sleep, 2*d
+}
+
+;-----------------------------FUNCTION------------------------------
+WarpToAsteroids(m)
+{
+Global d
+
+Log("Warping to asteroid belt " m ".")
+
+; FLY TO mining spot m
+MouseClick, right,  122,  (m-1)*19+91
+Sleep, 1*d
+MouseClick, left,  168,  (m-1)*19+102
+Sleep, 1*d
+
+; Wait for warp to complete
+Sleep, 20000
+
+; Wait for warp to complete (Check when we can approach stuff)
+while, 1
+{
+	CheckEve()
+	; Select asteroids tab
+	MouseClick, left,  857,  145
+	Sleep, 3*d
+	MouseClick, left,  829,  184
+	Sleep, 1*d
+	PixelSearch, Px, Py, 768, 82, 809, 114, 0x464646, 10, Fast
+	if ErrorLevel {
+		Sleep, 2000 ; not there yet.. Keep trying
+	}
+	else {
+		Sleep, 5000
+		Log("Warping complete.")
+		break ; warp finished
+	}
+}
+}
+;-----------------------------FUNCTION------------------------------
+LootCan()
+{
+	Global d
+; Activate container overview
+MouseClick, left,  980,  144
+Sleep, 2*d
+
+;Select jet can
+MouseClick, left,  829,  183
+Sleep, 2*d
+
+; INSERT CODE TO MAKE SURE THAT WE ARE NOT STEALING SOMEONES LOOT
+
+; Approach cargo
+MouseClick, left,  789,  101
+Sleep, 2*d
+MouseMove, 519,  292 ; Move mouse out of the way so we can check looting button
+
+Log("Approaching jet can.")
+
+;Open cargo when in range
+success := 0
+Loop, 30
+{
+	CheckEVE()
+	PixelSearch, Px, Py, 828, 93, 849, 110, 0xA1A1A1, 20, Fast
+	if ErrorLevel {
+		Sleep, 2*d ; not there yet.. Keep trying
+	}
+	else {
+		success := 1
+		break ; close enough to open can
+	}
+}
+; If can is not found return to station and start mining in a different location
+if success = 0
+{
+	Log("WARNING: Jet can NOT found. Returning to station.")
+	Return
+}
+
+;Open jet can
+MouseClick, left,  839,  99
+Sleep, 2*d
+
+; Open cargo hold (DISABLED BECAUSE IT USUALLY IS OPEN. AUTOCHECK?)
+;MouseClick, left,  414,  668
+;Sleep, 2*d
+
+; Check if the window opened upper or lower
+PixelSearch, Px, Py, 50, 670, 280, 750, C4C5C6, 10, Fast
+if ErrorLevel
+{
+	; Select all items in jet can (UPPER)
+	MouseClick, right,  92,  519
+	Sleep, 2*d
+	MouseClick, left,  148,  593
+	Sleep, 2*d
+
+	; Drag to cargo bay (UPPER to LOWER)
+	MouseClickDrag, left,  92,  521, 94,  723, 30
+	Sleep, Round(2.5*d)
+}
+else
+{
+	; Select all items in jet can (LOWER)
+	MouseClick, right,  86,  720
+	Sleep, 2*d
+	MouseClick, left,  130,  737
+	Sleep, 2*d
+
+	; Drag to cargo bay (LOWER to UPPER)
+	MouseClickDrag, left,  91,  720, 91,  525, 30
+	Sleep, Round(2.5*d)
+}
+
+Send, {ENTER}
+Log("Jet can looting completed.")
+Sleep, 2*d
+}
+
+;-----------------------------FUNCTION------------------------------
+LootToStation()
+{
+Global d
+
+Log("Moving loot to station.")
+; Activate item window
+MouseClick, left,  20,  680
+Sleep, 1*d
+
+; Select all items in cargo bay
+MouseClick, right,  96,  732
+Sleep, 1*d
+MouseClick, left,  145,  737
+Sleep, 1*d
+
+; Move items to station
+MouseClickDrag, left,  91,  732, LocWin(1),  LocWin(2), 30
+Sleep, 2*d
+
+; Check if we still have loot in cargo bay
+	PixelSearch, Px, Py, 50, 670, 280, 750, C4C5C6, 10, Fast
+	if !ErrorLevel
+	{
+		Log("ERROR: Can't move loot to station. Exiting!")
+		ExitApp
+	}
+}
+;-----------------------------FUNCTION------------------------------
+ActivateMammoth()
+{
+Global d
+; Select ships tab
+MouseClick, left,  22,  648
+Sleep, 1*d
+
+; Activate mammoth
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+MouseClick, left, Px, Py+50
+Sleep, 0.5*d
+
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_mammoth.bmp
+If ErrorLevel ; If we dont find the ship, try to scroll up
+{
+	MouseClick, WU,,,3
+	Sleep, 0.5*d
+	ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_mammoth.bmp
+}
+MouseClick, right,  Px+10,  Py+10
+Sleep, 1*d
+MouseMove, 0, 0
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/text_make_active.bmp
+MouseClick, left,  Px+5,  Py+5
+Sleep, Round(2.5*d)
+
+}
+;-----------------------------FUNCTION------------------------------
+ActivateRetriever()
+{
+Global d
+
+; Activate ship window
+MouseClick, left,  20,  653
+Sleep, 1*d
+
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_shipwindow.bmp
+MouseClick, left, Px, Py+50
+Sleep, 0.5*d
+MouseClick, WD,,,3
+Sleep, 1*d
+
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_retriever.bmp
+If ErrorLevel ; If we don't find the ship try and scroll down
+{
+	MouseClick, WU,,,3
+	Sleep, 0.5*d
+	ImageSearch, Px, Py, 0, 0, 1024, 790, images/icon_large_retriever.bmp
+}
+
+;Activate retriever
+MouseClick, right,  Px+10,  Py+10
+Sleep, 1*d
+MouseMove, 0, 0
+ImageSearch, Px, Py, 0, 0, 1024, 790, images/text_make_active.bmp
+MouseClick, left,  Px+5,  Py+5
+Sleep, Round(2.5*d)
+}
+;-----------------------------FUNCTION------------------------------
+CheckIfFull(percent)
+{
+	Global d
+x := percent + 187
+y := 460
+
+
+PixelSearch, Px, Py, x-1, y-10, x+1, y+10, 0x775D0A, 30, Fast
+if ErrorLevel
+{
+	return 0 ; Do Nothing
+}
+else
+{
+	Log("Jet can is over " percent " percent full.")
+	return 1
+}
+}
+;-----------------------------FUNCTION------------------------------
+CheckIfMining(i)
+{
+	Global d
+x := 613 + (i-1)*50
+y := 675
+
+
+PixelSearch, Px, Py, x-1, y-1, x+5, y+1, 0x999999, 30, Fast
+if ErrorLevel
+{
+	Sleep, 1*d ; Make Completely sure that we're not mining
+	PixelSearch, Px, Py, x-1, y-1, x+5, y+1, 0x999999, 30, Fast
+	if ErrorLevel
+	{
+		return 0 ; Ok, we're surely not mining!
+	}
+	else
+	{
+		return 1 ; Still mining.
+	}
+}
+else
+{
+
+	return 1 ; Still mining.
+}
+}
+;-----------------------------FUNCTION------------------------------
+DeactivateMiners(n)
+{
+	Global d
+i := 1
+
+While i <= n
+{
+	if CheckIfMining(i)
+	{
+		Send, {F%i%}
+	}
+	Sleep, 1*d
+	i += 1
+}
+}
+;-----------------------------FUNCTION------------------------------
+CheckMoreLoot()
+{
+	Global d
+
+PixelSearch, Px, Py, 280, 777, 290, 785, 0xFCFCFC, 10, Fast
+if !ErrorLevel
+{
+	; If we have more on the list, sort it to make those items appear
+	MouseClick, right,  178,  718
+	Sleep, 1*d
+	MouseClick, left,  223,  759
+	Sleep, 1*d
+	MouseClick, left,  323,  752
+	Sleep, 1*d
+	Can()
+
+}
+}
+;-----------------------------FUNCTION------------------------------
+PickMiningSpot(spots)
+{
+	Global d
+
+Random, m, 1, spots
+m := Round(m)
+
+Log("Selecting random asteroid field (" m ").")
+
+Return m
+
+}
+
+;-----------------------------FUNCTION------------------------------
+RepairRetriever()
+{
+	Global d
+
+Log("Repairing Retriever.")
+
+; Function assumes to be docked!
+MouseClick, left,  796,  465 ; Click the repair button (is it the same place)?
+Sleep, 2*d
+
+Loop, 60 ; Look for the ship logo for one min and click it if we find it.
+{
+	PixelSearch, Px, Py, 650, 560, 745, 780, 0x71947B, 1, Fast
+	If ErrorLevel
+	{
+		Send, {DOWN} ; Ship not found so we click the arrow-down
+		Sleep, 0.5*d
+	}
+	else
+	{
+		Send, {DOWN}
+		Sleep, 0.5*d
+		Send, {DOWN}
+		Sleep, 0.5*d
+		PixelSearch, Px, Py, 650, 560, 745, 780, 0x71947B, 1, Fast
+		Sleep, 0.5*d
+		MouseClick, left, Px+30, Py+10 ;  Select the ship
+		Sleep, 1*d
+		MouseClick, left,  853,  779 ; Click repair button
+		Sleep, 1*d
+		MouseClick, left,  900,  780 ; Repair all
+		Sleep, 1*d
+		Send, {ENTER} ; Confirm
+		Break ; Exit the loop
+	}
+}
+}
+;-----------------------------FUNCTION------------------------------
+NeedRepair()
+{
+	Global d
+
+}
+;-----------------------------FUNCTION------------------------------
+ReactivateMiners(n)
+{
+	Global d
+	DeactivateMiners(n)
+
+	;Check for full number of targets (= numer of miners)
+	
+	ImageSearch, Px, Py, 645 - (n-1)*97, 48, 701 - (n-1)*97, 103,  images/black.png
+	If !ErrorLevel
+	{
+		StartMining(n) ; Restart mining (by clearing and reselecting targets)
+	}
+	else ; Else we just restart the miners
+	{
+		While A_Index <= n
+		{
+			MouseClick, left,  672 - (A_Index-1)*97,  75
+			Sleep, 1*d
+			Send, {F%A_Index%}
+			Sleep, 1*d
+		}
+	}
+}
