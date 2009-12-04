@@ -595,6 +595,24 @@ Log("Selecting random asteroid field (" m ").")
 Return m
 
 }
+;-----------------------------FUNCTION------------------------------
+RepairShip()
+{
+	Global d
+
+	; Left click ship
+	MouseClick, right,  476,  489
+	Sleep, 1*d
+
+	; and choose repair
+	MouseClick, left,  525,  512
+	Sleep, 1*d
+
+	MouseClick, left,  900,  780 ; Repair all
+	Sleep, 1*d
+	Send, {ENTER} ; Confirm
+	Sleep 1*d
+}
 
 ;-----------------------------FUNCTION------------------------------
 RepairRetriever()

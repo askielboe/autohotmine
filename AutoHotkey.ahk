@@ -6,7 +6,7 @@ d := 2000 ; Define delay
 n := 2 ; Number of miners
 c := 16300 ; Capacity of hauler
 spots := 9 ; Number of mining spots
-m := 8 ; Set start mining spot
+m := 4 ; Set start mining spot
 
 ; Calculate constants from parameters
 p := Round(c / 27500 * 100)
@@ -84,7 +84,7 @@ Dock()
 
 Log("Waiting for ship cooldown to finish (30 sec).")
 
-RepairRetriever()
+RepairShip()
 
 Sleep, 20000 ; wait for docking to complete
 
@@ -165,11 +165,80 @@ Goto Mining
 ; ---------------------------------------------------------------------
 ; ---------------------------------------------------------------------
 ; ---------------------------------------------------------------------
+
+#a::
+WinWait, EVE, 
+IfWinNotActive, EVE, , WinActivate, EVE, 
+WinWaitActive, EVE,
+
+Log("Auto Auto Piloting to destination.")
+
+; Set destination from bookmark
+MouseClick, right,  110,  264
+Sleep, 1*d
+MouseClick, right,  149,  272
+Sleep, 1*d
+
+Undock()
+
+; Click Stargates tab
+MouseClick, left,  930,  145
+Sleep, 2*d
+
+While, 1
+{
+	; Find next stargate
+	ImageSearch, Px, Py, 770, 157, 802, 610,  .\images\marker_yellow.bmp
+	If ErrorLevel ; If no more next destinations we must have arrived.
+	{
+		Log("We have arrived at destination system! Docking to station..")
+		; Dock to destination
+		MouseClick, right,  110,  264
+		Sleep, 1*d
+		MouseClick, left,  151,  324
+		Break
+	}
+	; If we have a destination, lets click eet!
+	MouseClick, left,  Px,  Py
+	Sleep, 1*d
+
+	; And clik warp to 0 button!
+	MouseClick, left,  813,  101
+	Sleep, 3*d
+
+	;Activate Autopilot to do the jump automatically
+	MouseClick, left,  416,  727
+	Sleep, 1*d
+
+	While, 1 ; Detect jump completion!
+	{
+		ImageSearch, Px, Py, 770, 157, 802, 610,  .\images\marker_yellow_activated.bmp
+		If ErrorLevel ; 
+		{
+			MouseClick, left,  416,  727 ; Deactivate autopilot!
+			Log("Jump completed!")
+			Sleep, 2*d
+			Break
+		}
+	}
+	Sleep, 1*d
+}
+
+
+
+Goto End
+
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
+; ---------------------------------------------------------------------
 #t::
 WinWait, EVE, 
 IfWinNotActive, EVE, , WinActivate, EVE, 
 WinWaitActive, EVE,
 
+RepairShip()
 
 End:
 

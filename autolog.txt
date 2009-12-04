@@ -1783,3 +1783,42 @@
 04/12/2009 14:59:22 - Making new jet can. 
 04/12/2009 15:00:42 - EVE window not active. Exiting AutoKeyboard. 
 04/12/2009 15:01:25 - Making new jet can. 
+04/12/2009 15:06:24 - Mining session started. Assuming system 8. 
+04/12/2009 15:06:27 - Not all miners are running. Reactivating... 
+04/12/2009 15:06:48 - Mining session started. Assuming system 4. 
+04/12/2009 15:06:51 - Not all miners are running. Reactivating... 
+04/12/2009 15:37:51 - Jet can is over 59 percent full. 
+04/12/2009 15:38:04 - Returning to station. 
+04/12/2009 15:39:08 - Docking completed. 
+04/12/2009 15:39:13 - Waiting for ship cooldown to finish (30 sec). 
+04/12/2009 15:39:14 - Repairing Retriever. 
+04/12/2009 15:41:00 - Undocking completed. 
+04/12/2009 15:41:02 - Zooming camera out 
+04/12/2009 15:41:05 - Warping to asteroid belt 4. 
+04/12/2009 15:42:26 - Warping complete. 
+04/12/2009 15:42:40 - Approaching jet can. 
+04/12/2009 15:43:06 - Jet can looting completed. 
+04/12/2009 15:43:11 - Returning to station. 
+04/12/2009 15:44:10 - Docking completed. 
+04/12/2009 15:44:16 - Moving loot to station. 
+04/12/2009 15:44:56 - Selecting random asteroid field (2). 
+04/12/2009 15:45:49 - Undocking completed. 
+04/12/2009 15:45:50 - Zooming camera out 
+04/12/2009 15:45:54 - Warping to asteroid belt 2. 
+04/12/2009 15:47:14 - Warping complete. 
+04/12/2009 15:47:18 - Making new jet can. 
+04/12/2009 16:11:41 - Auto Auto Piloting to destination. 
+04/12/2009 16:11:47 - We have arrived! 
+04/12/2009 16:12:36 - Auto Auto Piloting to destination. 
+04/12/2009 16:12:52 - We have arrived! 
+04/12/2009 16:19:20 - Auto Auto Piloting to destination. 
+04/12/2009 16:20:14 - Jump completed! 
+04/12/2009 16:21:13 - Jump completed! 
+04/12/2009 16:21:19 - We have arrived! 
+04/12/2009 16:33:25 - Auto Auto Piloting to destination. 
+04/12/2009 16:33:49 - Undocking completed. 
+04/12/2009 16:33:50 - Zooming camera out 
+04/12/2009 16:34:49 - Jump completed! 
+04/12/2009 16:35:47 - Jump completed! 
+04/12/2009 16:36:48 - Jump completed! 
+04/12/2009 16:36:56 - We have arrived! 
